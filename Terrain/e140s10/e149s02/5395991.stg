@@ -4,8 +4,3 @@ OBJECT_SHARED Models/Airport/windsock.xml 149.974131 -1.659157 32.6 0.00
 OBJECT_SHARED Models/Airport/windsock.xml 149.974963 -1.653333 38.3 0.00
 OBJECT_SHARED Models/Airport/windsock.xml 149.960144 -1.644425 44.8 0.00
 OBJECT_SHARED Models/Airport/windsock.xml 149.960007 -1.650032 38.3 0.00
-OBJECT EMI.btg
-OBJECT_SHARED Models/Airport/windsock.xml 149.974131 -1.659157 32.6 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.974963 -1.653333 38.3 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.960144 -1.644425 44.8 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.960007 -1.650032 38.3 0.00

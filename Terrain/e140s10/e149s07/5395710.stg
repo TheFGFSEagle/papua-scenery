@@ -1,7 +1,4 @@
 OBJECT_BASE 5395710.btg
 OBJECT XAY000B.btg
-OBJECT_SHARED Models/Airport/windsock.xml 149.786517 -6.024848 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.786338 -6.021798 0.0 0.00
-OBJECT XAY000B.btg
-OBJECT_SHARED Models/Airport/windsock.xml 149.786517 -6.024848 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.786338 -6.021798 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 149.786517 -6.024848 457.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 149.786338 -6.021798 475.7 0.00

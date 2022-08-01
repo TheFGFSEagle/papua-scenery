@@ -1,9 +1,5 @@
 OBJECT_BASE 5330171.btg
 OBJECT AYGA.btg
-OBJECT_SHARED Models/Airport/windsock.xml 145.391017 -6.089202 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 145.389884 -6.076630 0.0 0.00
-OBJECT_SHARED Models/Airport/beacon.xml 145.391636 -6.078725 0.0 0.00
-OBJECT AYGA.btg
-OBJECT_SHARED Models/Airport/windsock.xml 145.391017 -6.089202 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 145.389884 -6.076630 0.0 0.00
-OBJECT_SHARED Models/Airport/beacon.xml 145.391636 -6.078725 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 145.391017 -6.089202 1566.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 145.389884 -6.076630 1602.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 145.391636 -6.078725 1590.0 0.00

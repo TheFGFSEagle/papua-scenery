@@ -1,5 +1,3 @@
 OBJECT_BASE 5330119.btg
 OBJECT MWG.btg
-OBJECT_SHARED Models/Airport/windsock.xml 145.884175 -6.974523 0.0 0.00
-OBJECT MWG.btg
-OBJECT_SHARED Models/Airport/windsock.xml 145.884175 -6.974523 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 145.884175 -6.974523 1810.7 0.00

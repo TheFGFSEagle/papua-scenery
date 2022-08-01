@@ -3,7 +3,3 @@ OBJECT WX54.btg
 OBJECT_SHARED Models/Airport/windsock.xml 138.048640 -2.337573 -9999.0 0.00
 OBJECT WZ31.btg
 OBJECT_SHARED Models/Airport/windsock.xml 138.033414 -2.300837 24.0 0.00
-OBJECT WX54.btg
-OBJECT_SHARED Models/Airport/windsock.xml 138.048640 -2.337573 -9999.0 0.00
-OBJECT WZ31.btg
-OBJECT_SHARED Models/Airport/windsock.xml 138.033414 -2.300837 24.0 0.00
