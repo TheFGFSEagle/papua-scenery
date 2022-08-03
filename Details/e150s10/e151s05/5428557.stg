@@ -1,0 +1,10 @@
+# details_e150s10_e151s05_5428557
+# do not edit below this line
+# Last Written Wed Aug  3 00:01:01 2022
+#
+OBJECT_STATIC e150s10_e151s05_5428557d12.ac 151.67909 -4.78457 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 151.69074 -4.79399 0.00 67.3242
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 151.69045 -4.79387 0.00 145.318
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 151.69051 -4.79356 0.00 244.843
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 151.69080 -4.79369 0.00 334.217
+# END details_e150s10_e151s05_5428557

@@ -1,0 +1,17 @@
+# pylons_e140s10_e143s06_5297432
+# do not edit below this line
+# Last Written Tue Aug  2 22:08:15 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 143.09142 -5.49974 2871.66 398.649
+# END pylons_e140s10_e143s06_5297432
+# pylons_e140s10_e143s06_5297440
+# do not edit below this line
+# Last Written Tue Aug  2 22:12:01 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 143.09142 -5.49974 2871.66 411.969
+OBJECT_BUILDING_MESH_DETAILED e140s10_e143s06_5297440c20.ac 143.09023 -5.48191 0.00 90
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 143.10750 -5.46942 2290.40 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 143.10773 -5.46904 2215.85 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 143.10858 -5.46984 2288.38 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 143.10316 -5.46089 2251.44 0
+# END pylons_e140s10_e143s06_5297440

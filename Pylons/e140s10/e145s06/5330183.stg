@@ -1,0 +1,14 @@
+# pylons_e140s10_e145s07_5330175
+# do not edit below this line
+# Last Written Tue Aug  2 22:41:15 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 145.91349 -5.99895 421.95 123.694
+# END pylons_e140s10_e145s07_5330175
+# pylons_e140s10_e145s06_5330183
+# do not edit below this line
+# Last Written Tue Aug  2 22:41:51 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 145.88604 -5.97622 434.00 147.563
+OBJECT_BUILDING_MESH_DETAILED e140s10_e145s06_5330183c00.ac 145.89306 -5.98191 0.00 90
+OBJECT_BUILDING_MESH_DETAILED e140s10_e145s06_5330183c10.ac 145.92919 -5.98191 0.00 90
+# END pylons_e140s10_e145s06_5330183

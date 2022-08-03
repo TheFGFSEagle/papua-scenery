@@ -1,0 +1,9 @@
+# details_e150s10_e150s07_5412074
+# do not edit below this line
+# Last Written Tue Aug  2 23:51:20 2022
+#
+OBJECT_STATIC e150s10_e150s07_5412074d12.ac 150.30423 -6.28457 0.00 0
+OBJECT_STATIC e150s10_e150s07_5412074d23.ac 150.34038 -6.26649 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 150.31337 -6.27766 -0.00 140.56
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 150.34157 -6.25947 -0.00 118.87
+# END details_e150s10_e150s07_5412074

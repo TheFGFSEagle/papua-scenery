@@ -1,0 +1,16 @@
+# details_e140s10_e147s08_5362872
+# do not edit below this line
+# Last Written Tue Aug  2 23:22:22 2022
+#
+OBJECT_STATIC e140s10_e147s08_5362872d10.ac 147.05431 -7.10692 0.00 0
+OBJECT_STATIC e140s10_e147s08_5362872d11.ac 147.05431 -7.07075 0.00 0
+OBJECT_STATIC e140s10_e147s08_5362872d12.ac 147.05431 -7.03458 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 147.04751 -7.05594 -0.00 123.631
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 147.04760 -7.05576 -0.00 303.634
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 147.04747 -7.05615 -0.00 116.393
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 147.04747 -7.05615 -0.00 116.393
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 147.04754 -7.05595 -0.00 296.414
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 147.04694 -7.05700 -0.00 136.219
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 147.04817 -7.05499 0.00 318.955
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 147.04801 -7.05511 0.00 138.958
+# END details_e140s10_e147s08_5362872

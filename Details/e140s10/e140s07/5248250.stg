@@ -1,0 +1,9 @@
+# details_e140s10_e140s07_5248250
+# do not edit below this line
+# Last Written Tue Aug  2 21:02:33 2022
+#
+OBJECT_STATIC e140s10_e140s07_5248250d10.ac 140.30420 -6.10691 0.00 0
+OBJECT_STATIC e140s10_e140s07_5248250d12.ac 140.30420 -6.03457 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 140.30593 -6.04989 15.13 286.435
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 140.29180 -6.10122 13.80 224.305
+# END details_e140s10_e140s07_5248250

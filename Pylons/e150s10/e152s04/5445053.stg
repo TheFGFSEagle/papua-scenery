@@ -1,0 +1,12 @@
+# pylons_e150s10_e152s04_5445053
+# do not edit below this line
+# Last Written Wed Aug  3 00:13:28 2022
+#
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 152.62949 -3.06737 0.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_040m_grey.ac 152.65228 -3.12086 -73.00 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 152.65595 -3.12163 -70.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_30M.ac 152.65533 -3.12210 -0.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 152.63320 -3.08921 0.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_10M.ac 152.63465 -3.06751 0.00 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 152.63369 -3.06704 0.00 0
+# END pylons_e150s10_e152s04_5445053
