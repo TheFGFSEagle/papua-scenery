@@ -1,0 +1,19 @@
+# details_e140s10_e146s03_5346805
+# do not edit below this line
+# Last Written Tue Aug  2 23:03:32 2022
+#
+OBJECT_STATIC e140s10_e146s03_5346805d12.ac 146.67894 -2.15956 0.00 0
+OBJECT_STATIC e140s10_e146s03_5346805d21.ac 146.71490 -2.19574 0.00 0
+OBJECT_STATIC e140s10_e146s03_5346805d22.ac 146.71490 -2.15956 0.00 0
+OBJECT_STATIC e140s10_e146s03_5346805d33.ac 146.73288 -2.14148 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 146.74011 -2.13617 -0.00 138.933
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 146.74005 -2.13611 -0.00 154.51
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 146.73991 -2.13590 -0.00 124.152
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 146.74013 -2.13605 -0.00 41.1537
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 146.71032 -2.16858 0.00 79.1507
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 146.70343 -2.19465 -0.00 323.343
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 146.70316 -2.19531 -0.00 273.636
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 146.70105 -2.19721 0.00 358.518
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 146.69987 -2.16093 -0.00 68.0808
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 146.70037 -2.16070 -0.00 65.0641
+# END details_e140s10_e146s03_5346805

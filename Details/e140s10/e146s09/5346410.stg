@@ -1,0 +1,9 @@
+# details_e140s10_e146s09_5346410
+# do not edit below this line
+# Last Written Tue Aug  2 22:51:07 2022
+#
+OBJECT_STATIC e140s10_e146s09_5346410d02.ac 146.26816 -8.28458 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 146.25302 -8.29601 0.00 299.686
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 146.25287 -8.29602 -0.00 -58.6364
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 146.25330 -8.29599 0.00 -59.6042
+# END details_e140s10_e146s09_5346410

@@ -1,0 +1,15 @@
+# details_e140s20_e149s11_5395435
+# do not edit below this line
+# Last Written Tue Aug  2 23:40:08 2022
+#
+OBJECT_STATIC e140s20_e149s11_5395435d02.ac 149.39326 -10.28459 0.00 0
+OBJECT_STATIC e140s20_e149s11_5395435d21.ac 149.46630 -10.32076 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 149.40514 -10.29646 -0.02 15.0959
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 149.40454 -10.29655 -0.02 107.495
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 149.40439 -10.29630 -0.02 194.316
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 149.40514 -10.29646 -0.02 15.0959
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 149.48301 -10.33182 -0.00 24.5215
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 149.48339 -10.33165 -0.00 14.5215
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 149.40517 -10.29641 -0.00 104.516
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 149.40517 -10.29641 -0.00 104.516
+# END details_e140s20_e149s11_5395435

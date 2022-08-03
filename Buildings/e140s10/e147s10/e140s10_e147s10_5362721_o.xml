@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4660.99</x-m>
+    <y-m>-4277.32</y-m>
+    <z-m>204.202</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4690.51</x-m>
+    <y-m>-4254.04</y-m>
+    <z-m>204.202</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4670.08</x-m>
+    <y-m>-4239.59</y-m>
+    <z-m>204.202</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4654.52</x-m>
+    <y-m>-4256.9</y-m>
+    <z-m>204.202</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4658.25</x-m>
+    <y-m>-4259.71</y-m>
+    <z-m>218.549</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4675.02</x-m>
+    <y-m>-4268.29</y-m>
+    <z-m>218.549</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4683.39</x-m>
+    <y-m>-4251.69</y-m>
+    <z-m>218.549</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>4666.62</x-m>
+    <y-m>-4243.12</y-m>
+    <z-m>218.549</z-m>
+    <pitch-deg>0.00</pitch-deg>
+    <heading-deg>0.0</heading-deg>
+  </offsets>
+</model>
+</PropertyList>
