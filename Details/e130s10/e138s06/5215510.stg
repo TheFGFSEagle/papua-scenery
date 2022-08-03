@@ -1,0 +1,9 @@
+# details_e130s10_e138s06_5215510
+# do not edit below this line
+# Last Written Tue Aug  2 11:42:14 2022
+#
+OBJECT_STATIC e130s10_e138s06_5215510d01.ac 138.76805 -5.69574 0.00 0
+OBJECT_STATIC e130s10_e138s06_5215510d32.ac 138.85833 -5.65957 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 138.87111 -5.65833 5.22 122.671
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 138.86918 -5.65829 5.89 293.037
+# END details_e130s10_e138s06_5215510

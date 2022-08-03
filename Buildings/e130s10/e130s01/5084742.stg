@@ -1,0 +1,7 @@
+# osm2city_e130s10_e130s01_5084742
+# do not edit below this line
+# Last Written Mon Aug  1 19:41:02 2022
+#
+BUILDING_LIST e130s10_e130s01_5084742_buildings_shader.txt OSMBuildings 130.81250 -0.93750 14.93
+OBJECT_BUILDING_MESH_DETAILED e130s10_e130s01_5084742b032.ac 130.85781 -0.90956 0.00 0
+# END osm2city_e130s10_e130s01_5084742

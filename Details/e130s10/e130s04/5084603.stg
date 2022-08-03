@@ -1,0 +1,22 @@
+# details_e130s10_e130s04_5084603
+# do not edit below this line
+# Last Written Mon Aug  1 19:10:10 2022
+#
+OBJECT_STATIC e130s10_e130s04_5084603d21.ac 130.46496 -3.07074 0.00 0
+OBJECT_STATIC e130s10_e130s04_5084603d30.ac 130.48295 -3.10691 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 130.49773 -3.10359 -0.09 -160.798
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 130.49782 -3.10291 -0.09 5.12352
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 130.49891 -3.10359 -0.13 7.72383
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 130.49877 -3.10260 -0.13 330.701
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 130.49191 -3.09967 -0.00 218.882
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 130.49208 -3.09980 -0.00 38.3474
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 130.45235 -3.06301 -0.01 17.0701
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 130.45150 -3.06323 -0.01 18.2054
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 130.45167 -3.06277 -0.01 18.8843
+# END details_e130s10_e130s04_5084603
+# details_e130s10_e130s04_5084604
+# do not edit below this line
+# Last Written Mon Aug  1 19:11:11 2022
+#
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 130.49990 -3.10320 -0.17 170.742
+# END details_e130s10_e130s04_5084604

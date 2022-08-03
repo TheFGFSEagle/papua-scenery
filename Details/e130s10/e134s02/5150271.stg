@@ -1,0 +1,9 @@
+# details_e130s10_e134s02_5150271
+# do not edit below this line
+# Last Written Tue Aug  2 07:36:17 2022
+#
+OBJECT_STATIC e130s10_e134s02_5150271d11.ac 134.92891 -1.07074 0.00 0
+OBJECT_STATIC e130s10_e134s02_5150271d21.ac 134.96485 -1.07074 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 134.97848 -1.06128 -0.00 -86.2859
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 134.94315 -1.06070 0.00 330.001
+# END details_e130s10_e134s02_5150271

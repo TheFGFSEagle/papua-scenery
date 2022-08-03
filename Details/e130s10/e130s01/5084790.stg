@@ -1,0 +1,8 @@
+# details_e130s10_e130s01_5084790
+# do not edit below this line
+# Last Written Mon Aug  1 21:07:14 2022
+#
+OBJECT_STATIC e130s10_e130s01_5084790d10.ac 130.80390 -0.23191 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 130.79764 -0.22792 -0.00 63.8395
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 130.79805 -0.22749 -0.00 232.426
+# END details_e130s10_e130s01_5084790

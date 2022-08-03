@@ -1,0 +1,9 @@
+# pylons_e130s10_e131s02_5101096
+# do not edit below this line
+# Last Written Mon Aug  1 22:01:27 2022
+#
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.ac 131.02170 -1.31716 4.67 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_12M.ac 131.02285 -1.31755 6.71 0
+OBJECT_SHARED Models/Industrial/generic_tank_050m_grey.ac 131.02875 -1.30918 -57.72 0
+OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.ac 131.02329 -1.31743 7.47 0
+# END pylons_e130s10_e131s02_5101096

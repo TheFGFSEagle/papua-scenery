@@ -1,0 +1,8 @@
+# details_e130s10_e132s06_5117189
+# do not edit below this line
+# Last Written Tue Aug  2 01:16:11 2022
+#
+OBJECT_STATIC e130s10_e132s06_5117189d22.ac 132.71531 -5.90957 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 132.72663 -5.91489 -0.02 105.784
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 132.72578 -5.91604 -0.02 13.1415
+# END details_e130s10_e132s06_5117189

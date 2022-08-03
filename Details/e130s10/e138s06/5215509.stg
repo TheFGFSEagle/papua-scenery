@@ -1,0 +1,13 @@
+# details_e130s10_e138s06_5215509
+# do not edit below this line
+# Last Written Tue Aug  2 11:41:20 2022
+#
+OBJECT_STATIC e130s10_e138s06_5215509d23.ac 138.71527 -5.64149 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 138.73230 -5.62908 7.04 279.055
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 138.73072 -5.62957 3.99 289.059
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 138.73145 -5.62934 5.74 72.6886
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 138.73198 -5.62917 5.74 -97.3595
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 138.73177 -5.62938 6.22 72.425
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 138.73177 -5.62938 6.22 72.425
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 138.73177 -5.62938 6.22 72.425
+# END details_e130s10_e138s06_5215509

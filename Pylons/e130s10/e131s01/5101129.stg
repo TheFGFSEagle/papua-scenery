@@ -1,0 +1,7 @@
+# pylons_e130s10_e131s01_5101129
+# do not edit below this line
+# Last Written Tue Aug  2 00:24:35 2022
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 131.24706 -0.83726 39.71 381.295
+OBJECT_BUILDING_MESH_DETAILED e130s10_e131s01_5101129c31.ac 131.23281 -0.82074 0.00 90
+# END pylons_e130s10_e131s01_5101129
