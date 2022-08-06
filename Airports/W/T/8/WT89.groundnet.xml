@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="tie_down" name="Mbugulo Start" lon="E136 44.51786880" lat="S3 42.44849160" heading="42" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

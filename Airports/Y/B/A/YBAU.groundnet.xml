@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="misc" name="New Ramp Start 124" lon="E142 10.56128760" lat="S10 9.11196000" heading="313" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

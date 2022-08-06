@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="misc" name="Runway 30" lon="E140 46.60202100" lat="S4 45.53869200" heading="300" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

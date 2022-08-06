@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="tie_down" name="GA Parking 8" lon="E144 17.93620380" lat="S5 49.78170840" heading="-58" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="1" type="tie_down" name="GA Parking 7" lon="E144 17.91847140" lat="S5 49.77649380" heading="-58" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="2" type="tie_down" name="GA Parking 6" lon="E144 17.91347520" lat="S5 49.78545660" heading="-58" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="3" type="tie_down" name="GA Parking 5" lon="E144 17.91064920" lat="S5 49.78301220" heading="119" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="4" type="tie_down" name="GA Parking 2" lon="E144 17.73474600" lat="S5 49.67345700" heading="119" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="5" type="tie_down" name="GA Parking 1" lon="E144 17.75227380" lat="S5 49.66423200" heading="213" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="6" type="tie_down" name="GA Parking 2" lon="E144 17.77746420" lat="S5 49.68284460" heading="120" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="7" type="tie_down" name="GA Parking 3" lon="E144 17.77080000" lat="S5 49.69346340" heading="120" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<parking index="8" type="gate" name="Gate 2" lon="E144 17.82320040" lat="S5 49.72447560" heading="-118" radius="18" pushBackRoute="False" airlineCodes=""/>
+		<parking index="9" type="gate" name="Gate 2" lon="E144 17.84434620" lat="S5 49.73377440" heading="-103" radius="18" pushBackRoute="False" airlineCodes=""/>
+		<parking index="10" type="gate" name="Gate 1" lon="E144 17.87416980" lat="S5 49.75465380" heading="-148" radius="18" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

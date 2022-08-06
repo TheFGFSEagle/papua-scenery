@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="misc" name="Losuia Ramp" lon="E151 5.07353760" lat="S8 30.51438960" heading="98" radius="14" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

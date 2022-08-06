@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="tie_down" name="New Ramp Start 67" lon="E133 41.76803940" lat="S3 38.66964840" heading="9" radius="18" pushBackRoute="False" airlineCodes=""/>
+		<parking index="1" type="tie_down" name="New Ramp Start 68" lon="E133 41.84218740" lat="S3 38.42249220" heading="190" radius="26" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>

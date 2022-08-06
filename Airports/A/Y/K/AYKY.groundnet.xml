@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<parking index="0" type="tie_down" name="Startup Location 1 (Airline)" lon="E152 37.63464180" lat="S3 2.57343240" heading="136" radius="14" pushBackRoute="False" airlineCodes=""/>
+		<parking index="1" type="tie_down" name="Startup Location 2 (Airline)" lon="E152 37.65721740" lat="S3 2.59245420" heading="313" radius="14" pushBackRoute="False" airlineCodes=""/>
+		<parking index="2" type="tie_down" name="Startup Location 3 (General)" lon="E152 37.64376780" lat="S3 2.55998400" heading="148" radius="14" pushBackRoute="False" airlineCodes=""/>
+		<parking index="3" type="tie_down" name="Startup Location 4 (Cargo)" lon="E152 37.68674340" lat="S3 2.61973980" heading="317" radius="14" pushBackRoute="False" airlineCodes=""/>
+	</parkingList>
+</groundnet>
