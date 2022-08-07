@@ -2,16 +2,16 @@
 <PropertyList>
 	<runway>
 		<threshold>
-			<lon>E136 44.50493400</lon>
-			<lat>S3 42.44571480</lat>
+			<lon>136.7417489</lon>
+			<lat>-3.70742858</lat>
 			<rwy>6</rwy>
 			<hdg-deg>87.90</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
 		<threshold>
-			<lon>E136 44.71342260</lon>
-			<lat>S3 42.43807680</lat>
+			<lon>136.74522371</lon>
+			<lat>-3.70730128</lat>
 			<rwy>24</rwy>
 			<hdg-deg>267.90</hdg-deg>
 			<displ-m>0.0</displ-m>
