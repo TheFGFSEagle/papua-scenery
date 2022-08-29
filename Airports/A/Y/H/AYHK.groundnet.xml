@@ -7,4 +7,4 @@
 		<parking index="2" type="tie_down" name="New Ramp Start 16" lon="E150 24.17668020" lat="S5 27.46933620" heading="69" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="3" type="tie_down" name="New Ramp Start 15" lon="E150 24.15072660" lat="S5 27.44777340" heading="71" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

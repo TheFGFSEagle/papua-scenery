@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="gate" name="New Ramp Start 40" lon="E137 1.80898620" lat="S3 44.34739080" heading="124" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

@@ -19,4 +19,4 @@
 		<parking index="14" type="tie_down" name="MAF Ramp" lon="E145 23.41740660" lat="S6 5.02575180" heading="356" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="15" type="tie_down" name="MAF Ramp" lon="E145 23.42507160" lat="S6 5.03974320" heading="358" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

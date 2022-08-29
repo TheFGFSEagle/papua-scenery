@@ -55,4 +55,4 @@
 		<parking index="50" type="tie_down" name="Domestic 8" lon="E147 12.65274060" lat="S9 26.12804940" heading="-22" radius="18" pushBackRoute="False" airlineCodes=""/>
 		<parking index="51" type="tie_down" name="Domestic 7" lon="E147 12.67313880" lat="S9 26.11633980" heading="-19" radius="18" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

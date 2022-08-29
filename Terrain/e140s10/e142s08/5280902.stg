@@ -1,4 +1,4 @@
 OBJECT_BASE 5280902.btg
 OBJECT KWO.btg
-OBJECT_SHARED Models/Airport/windsock.xml 142.824247 -7.979461 21.2 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 142.820718 -7.973014 23.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 142.824247 -7.979461 19.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 142.820718 -7.973014 22.8 0.00

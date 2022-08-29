@@ -5,4 +5,4 @@
 		<parking index="0" type="tie_down" name="GA Parking 1" lon="E147 51.23497500" lat="S6 36.87259980" heading="-57" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="1" type="tie_down" name="GA Parking 2" lon="E147 51.23755260" lat="S6 36.86465880" heading="-90" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

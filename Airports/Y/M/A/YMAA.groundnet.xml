@@ -5,4 +5,4 @@
 		<parking index="0" type="gate" name="RPT" lon="E142 11.72411220" lat="S9 57.08872980" heading="243" radius="7.5" pushBackRoute="False" airlineCodes="skp"/>
 		<parking index="1" type="tie_down" name="GA" lon="E142 11.71509480" lat="S9 57.06370020" heading="117" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

@@ -14,4 +14,4 @@
 		<parking index="9" type="gate" name="Gate 2" lon="E144 17.84434620" lat="S5 49.73377440" heading="-103" radius="18" pushBackRoute="False" airlineCodes=""/>
 		<parking index="10" type="gate" name="Gate 1" lon="E144 17.87416980" lat="S5 49.75465380" heading="-148" radius="18" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

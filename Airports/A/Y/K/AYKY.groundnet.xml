@@ -7,4 +7,4 @@
 		<parking index="2" type="tie_down" name="Startup Location 3 (General)" lon="E152 37.64376780" lat="S3 2.55998400" heading="148" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="3" type="tie_down" name="Startup Location 4 (Cargo)" lon="E152 37.68674340" lat="S3 2.61973980" heading="317" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

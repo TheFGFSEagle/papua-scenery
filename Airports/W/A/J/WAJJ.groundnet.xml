@@ -7,4 +7,4 @@
 		<parking index="2" type="gate" name="G3" lon="E140 30.74529360" lat="S2 34.25855520" heading="36" radius="18" pushBackRoute="False" airlineCodes=""/>
 		<parking index="3" type="gate" name="G2" lon="E140 30.72605580" lat="S2 34.24459740" heading="35" radius="18" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="misc" name="Startup Location" lon="E149 18.97903020" lat="S9 4.63205760" heading="56" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

@@ -13,4 +13,4 @@
 		<parking index="8" type="gate" name="Stand 1" lon="E136 6.47435340" lat="S1 11.51417400" heading="-161" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="9" type="tie_down" name="Biak Maintenance" lon="E136 6.43665240" lat="S1 11.22978420" heading="63" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

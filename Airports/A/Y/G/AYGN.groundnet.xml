@@ -10,4 +10,4 @@
 		<parking index="5" type="tie_down" name="Helicopter 1" lon="E150 20.40704280" lat="S10 18.64833420" heading="10" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="6" type="tie_down" name="Helicopter 2" lon="E150 20.43029940" lat="S10 18.65311020" heading="10" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

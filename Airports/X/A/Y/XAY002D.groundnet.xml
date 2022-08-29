@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="tie_down" name="GA1 (A)" lon="E144 6.95155620" lat="S5 30.42179040" heading="321" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

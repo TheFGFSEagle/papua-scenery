@@ -7,4 +7,4 @@
 		<parking index="2" type="tie_down" name="Ramp Start (General)" lon="E143 53.47724520" lat="S5 37.99308960" heading="47" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="3" type="tie_down" name="Helicopters" lon="E143 53.45138760" lat="S5 37.96369260" heading="48" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

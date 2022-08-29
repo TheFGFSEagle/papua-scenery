@@ -6,4 +6,4 @@
 		<parking index="1" type="gate" name="Ramp Start 2" lon="E136 17.09372820" lat="S4 3.27752880" heading="134" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="2" type="gate" name="Ramp Start 3" lon="E136 17.10494520" lat="S4 3.26742180" heading="135" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

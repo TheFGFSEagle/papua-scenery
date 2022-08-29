@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="misc" name="Bugalaga Start" lon="E136 35.66375700" lat="S3 37.45020840" heading="121" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>

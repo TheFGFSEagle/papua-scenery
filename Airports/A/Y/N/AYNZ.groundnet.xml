@@ -15,4 +15,4 @@
 		<parking index="10" type="tie_down" name="Cargo Ramp" lon="E146 43.58587620" lat="S6 33.85576140" heading="184" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="11" type="tie_down" name="Cargo Ramp 2" lon="E146 43.58026440" lat="S6 33.79627320" heading="93" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-</groundnet>
+	<TaxiNodes></groundnet>
