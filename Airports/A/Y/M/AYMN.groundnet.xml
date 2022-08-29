@@ -6,4 +6,4 @@
 		<parking index="1" type="misc" name="Ramp Start Cargo "B"" lon="E143 39.45696540" lat="S6 8.64857880" heading="352" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="2" type="misc" name="Ramp Start "B"" lon="E143 39.44983380" lat="S6 8.59097520" heading="172" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

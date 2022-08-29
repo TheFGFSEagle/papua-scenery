@@ -11,4 +11,4 @@
 		<parking index="6" type="tie_down" name="Gate 7 (Helicopter)" lon="E152 22.50218340" lat="S4 20.51715540" heading="196" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="7" type="misc" name="General Start 8" lon="E152 22.51968540" lat="S4 20.47354320" heading="199" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

@@ -5,4 +5,4 @@
 		<parking index="0" type="tie_down" name="Ramp" lon="E143 12.53805840" lat="S9 5.18372340" heading="49" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="1" type="tie_down" name="Ramp" lon="E143 12.52906620" lat="S9 5.15896860" heading="280" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

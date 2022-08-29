@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="misc" name="Komo Apron" lon="E142 52.40097000" lat="S6 3.69932760" heading="346" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

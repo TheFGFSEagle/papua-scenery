@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="gate" name="Homeyo Start" lon="E136 34.00238160" lat="S3 40.47887460" heading="83" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

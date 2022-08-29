@@ -4,4 +4,4 @@
 	<parkingList>
 		<parking index="0" type="tie_down" name="Ambunti Ramp" lon="E142 49.28023920" lat="S4 12.80095140" heading="155" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

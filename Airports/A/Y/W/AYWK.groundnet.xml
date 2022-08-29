@@ -10,4 +10,4 @@
 		<parking index="5" type="tie_down" name="General 1" lon="E143 40.24920600" lat="S3 34.84975620" heading="192" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="6" type="misc" name="General 2" lon="E143 40.28163120" lat="S3 34.85160600" heading="280" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

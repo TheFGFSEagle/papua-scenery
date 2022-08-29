@@ -6,4 +6,4 @@
 		<parking index="1" type="tie_down" name="Cargo" lon="E143 43.42280940" lat="S6 52.68127920" heading="135" radius="14" pushBackRoute="False" airlineCodes=""/>
 		<parking index="2" type="tie_down" name="Parking" lon="E143 43.49996940" lat="S6 52.78668240" heading="224" radius="14" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+</groundnet>

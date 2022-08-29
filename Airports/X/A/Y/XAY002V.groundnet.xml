@@ -6,4 +6,19 @@
 		<parking index="1" type="tie_down" name="GA 1" lon="E143 55.04122560" lat="S5 6.51258060" heading="0" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 		<parking index="2" type="tie_down" name="GA 3" lon="E143 55.14473400" lat="S5 6.62742120" heading="9" radius="7.5" pushBackRoute="False" airlineCodes=""/>
 	</parkingList>
-	<TaxiNodes></groundnet>
+	<TaxiNodes>
+		<node index="0" lon="E143 55.03998360 lat="S5 6.52017840" isOnRunway="0" holdPointType="none"/>
+		<node index="1" lon="E143 55.14323520 lat="S5 6.63413760" isOnRunway="0" holdPointType="none"/>
+		<node index="2" lon="E143 55.14161220 lat="S5 6.64035600" isOnRunway="0" holdPointType="none"/>
+		<node index="3" lon="E143 55.14571680 lat="S5 6.66834180" isOnRunway="0" holdPointType="none"/>
+		<node index="4" lon="E143 54.97227600 lat="S5 6.49091700" isOnRunway="0" holdPointType="none"/>
+		<node index="5" lon="E143 55.02008280 lat="S5 6.53982180" isOnRunway="0" holdPointType="none"/>
+		<node index="6" lon="E143 55.12841400 lat="S5 6.65064180" isOnRunway="0" holdPointType="none"/>
+		<node index="7" lon="E143 55.03189860 lat="S5 6.52815900" isOnRunway="0" holdPointType="none"/>
+	</TaxiNodes>
+	<TaxiWaySegments>
+		<arc begin="4" end="5" isPushBackRoute="0" name="13/31"/>
+		<arc begin="5" end="6" isPushBackRoute="0" name="13/31"/>
+		<arc begin="6" end="3" isPushBackRoute="0" name="13/31"/>
+	</TaxiWaySegments>
+</groundnet>
