@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="misc" name="Custom Startup Location" lon="E146 59.39861160" lat="S8 21.36170880" heading="180" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="misc" name="Custom Startup Location" lon="E146 59.42668140" lat="S8 21.36071580" heading="180" radius="14" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="misc" name="Custom Startup Location" lon="E146 59.39861160" lat="S8 21.36170880" heading="180" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="misc" name="Custom Startup Location" lon="E146 59.42668140" lat="S8 21.36071580" heading="180" radius="14" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 </groundnet>

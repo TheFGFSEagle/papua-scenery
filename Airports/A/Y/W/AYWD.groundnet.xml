@@ -2,9 +2,9 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="tie_down" name="Ramp 1 (Airline)" lon="E143 53.48236260" lat="S5 37.95456240" heading="91" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="tie_down" name="Ramp 2 (Airline)" lon="E143 53.49522060" lat="S5 37.97328240" heading="96" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="2" type="tie_down" name="Ramp Start (General)" lon="E143 53.47724520" lat="S5 37.99308960" heading="47" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="3" type="tie_down" name="Helicopters" lon="E143 53.45138760" lat="S5 37.96369260" heading="48" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="Ramp 1 (Airline)" lon="E143 53.48236260" lat="S5 37.95456240" heading="91" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="tie_down" name="Ramp 2 (Airline)" lon="E143 53.49522060" lat="S5 37.97328240" heading="96" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="2" type="tie_down" name="Ramp Start (General)" lon="E143 53.47724520" lat="S5 37.99308960" heading="47" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="3" type="tie_down" name="Helicopters" lon="E143 53.45138760" lat="S5 37.96369260" heading="48" radius="7.5" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 </groundnet>

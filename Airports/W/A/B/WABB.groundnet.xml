@@ -2,69 +2,69 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="tie_down" name="Biak IAF 4" lon="E136 5.92965360" lat="S1 11.01098520" heading="85" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="tie_down" name="Biak IAF 3" lon="E136 5.88365580" lat="S1 11.04309780" heading="357" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="2" type="tie_down" name="Biak IAF 2" lon="E136 5.90970780" lat="S1 11.03123820" heading="357" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="3" type="tie_down" name="Biak IAF 1" lon="E136 5.93603580" lat="S1 11.02894860" heading="357" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="4" type="gate" name="Stand 5" lon="E136 6.38886300" lat="S1 11.48983920" heading="-161" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="5" type="gate" name="Stand 4" lon="E136 6.40726440" lat="S1 11.49638100" heading="-161" radius="18" pushBackRoute="False" airlineCodes=""/>
-		<parking index="6" type="gate" name="Stand 3" lon="E136 6.42658800" lat="S1 11.50606620" heading="-161" radius="18" pushBackRoute="False" airlineCodes=""/>
-		<parking index="7" type="gate" name="Stand 2" lon="E136 6.44874060" lat="S1 11.51491200" heading="-161" radius="18" pushBackRoute="False" airlineCodes=""/>
-		<parking index="8" type="gate" name="Stand 1" lon="E136 6.47435340" lat="S1 11.51417400" heading="-161" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="9" type="tie_down" name="Biak Maintenance" lon="E136 6.43665240" lat="S1 11.22978420" heading="63" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="Biak IAF 4" lon="E136 5.92965360" lat="S1 11.01098520" heading="85" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="tie_down" name="Biak IAF 3" lon="E136 5.88365580" lat="S1 11.04309780" heading="357" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="2" type="tie_down" name="Biak IAF 2" lon="E136 5.90970780" lat="S1 11.03123820" heading="357" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="3" type="tie_down" name="Biak IAF 1" lon="E136 5.93603580" lat="S1 11.02894860" heading="357" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="4" type="gate" name="Stand 5" lon="E136 6.38886300" lat="S1 11.48983920" heading="-161" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="5" type="gate" name="Stand 4" lon="E136 6.40726440" lat="S1 11.49638100" heading="-161" radius="18" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="6" type="gate" name="Stand 3" lon="E136 6.42658800" lat="S1 11.50606620" heading="-161" radius="18" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="7" type="gate" name="Stand 2" lon="E136 6.44874060" lat="S1 11.51491200" heading="-161" radius="18" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="8" type="gate" name="Stand 1" lon="E136 6.47435340" lat="S1 11.51417400" heading="-161" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="9" type="tie_down" name="Biak Maintenance" lon="E136 6.43665240" lat="S1 11.22978420" heading="63" radius="7.5" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="0" lon="E136 6.44823840 lat="S1 11.54139300" isOnRunway="0" holdPointType="none"/>
-		<node index="1" lon="E136 6.46146660 lat="S1 11.54449920" isOnRunway="0" holdPointType="none"/>
-		<node index="2" lon="E136 6.49126620 lat="S1 11.52920820" isOnRunway="0" holdPointType="none"/>
-		<node index="3" lon="E136 6.48013860 lat="S1 11.52673860" isOnRunway="0" holdPointType="none"/>
-		<node index="4" lon="E136 6.48310020 lat="S1 11.53352040" isOnRunway="0" holdPointType="none"/>
-		<node index="5" lon="E136 6.47705880 lat="S1 11.52490440" isOnRunway="0" holdPointType="none"/>
-		<node index="6" lon="E136 6.46699080 lat="S1 11.52621840" isOnRunway="0" holdPointType="none"/>
-		<node index="7" lon="E136 6.34351080 lat="S1 11.48473320" isOnRunway="0" holdPointType="none"/>
-		<node index="8" lon="E136 6.37611780 lat="S1 11.49566580" isOnRunway="0" holdPointType="none"/>
-		<node index="9" lon="E136 6.39526020 lat="S1 11.50208340" isOnRunway="0" holdPointType="none"/>
-		<node index="10" lon="E136 6.42408780 lat="S1 11.51174880" isOnRunway="0" holdPointType="none"/>
-		<node index="11" lon="E136 6.44787960 lat="S1 11.51972520" isOnRunway="0" holdPointType="none"/>
-		<node index="12" lon="E136 5.93724000 lat="S1 11.05044660" isOnRunway="0" holdPointType="none"/>
-		<node index="13" lon="E136 5.88191580 lat="S1 11.05577220" isOnRunway="0" holdPointType="none"/>
-		<node index="14" lon="E136 5.91065100 lat="S1 11.05300620" isOnRunway="0" holdPointType="none"/>
-		<node index="15" lon="E136 5.85440220 lat="S1 11.04928200" isOnRunway="0" holdPointType="none"/>
-		<node index="16" lon="E136 5.91058560 lat="S1 11.01226740" isOnRunway="0" holdPointType="none"/>
-		<node index="17" lon="E136 5.84387760 lat="S1 11.04534660" isOnRunway="0" holdPointType="none"/>
-		<node index="18" lon="E136 5.82957480 lat="S1 11.05398180" isOnRunway="0" holdPointType="none"/>
-		<node index="19" lon="E136 5.84020440 lat="S1 11.04754020" isOnRunway="0" holdPointType="none"/>
-		<node index="20" lon="E136 5.81958420 lat="S1 11.06611500" isOnRunway="0" holdPointType="none"/>
-		<node index="21" lon="E136 5.81801700 lat="S1 11.07538140" isOnRunway="0" holdPointType="none"/>
-		<node index="22" lon="E136 5.82186000 lat="S1 11.08886760" isOnRunway="0" holdPointType="none"/>
-		<node index="23" lon="E136 5.83593060 lat="S1 11.10599460" isOnRunway="0" holdPointType="none"/>
-		<node index="24" lon="E136 6.39952020 lat="S1 11.45898840" isOnRunway="0" holdPointType="none"/>
-		<node index="25" lon="E136 6.50155080 lat="S1 11.48404500" isOnRunway="0" holdPointType="none"/>
-		<node index="26" lon="E136 6.49304160 lat="S1 11.48837340" isOnRunway="0" holdPointType="none"/>
-		<node index="27" lon="E136 6.48478020 lat="S1 11.48864580" isOnRunway="0" holdPointType="none"/>
-		<node index="28" lon="E136 6.43512720 lat="S1 11.47137420" isOnRunway="0" holdPointType="none"/>
-		<node index="29" lon="E136 6.46037820 lat="S1 11.48015760" isOnRunway="0" holdPointType="none"/>
-		<node index="30" lon="E136 6.41723880 lat="S1 11.46515160" isOnRunway="0" holdPointType="none"/>
-		<node index="31" lon="E136 6.44329140 lat="S1 11.22758220" isOnRunway="0" holdPointType="none"/>
-		<node index="32" lon="E136 6.44785740 lat="S1 11.23923300" isOnRunway="0" holdPointType="none"/>
-		<node index="33" lon="E136 6.39385800 lat="S1 11.29863540" isOnRunway="0" holdPointType="none"/>
-		<node index="34" lon="E136 6.37963800 lat="S1 11.32228320" isOnRunway="0" holdPointType="none"/>
-		<node index="35" lon="E136 6.38589000 lat="S1 11.30848860" isOnRunway="0" holdPointType="none"/>
-		<node index="36" lon="E136 6.51648600 lat="S1 11.46202440" isOnRunway="0" holdPointType="none"/>
-		<node index="37" lon="E136 6.44904480 lat="S1 11.43021720" isOnRunway="0" holdPointType="none"/>
-		<node index="38" lon="E136 5.88223800 lat="S1 11.15847540" isOnRunway="0" holdPointType="none"/>
-		<node index="39" lon="E136 7.34624820 lat="S1 11.68696200" isOnRunway="0" holdPointType="none"/>
-		<node index="40" lon="E136 7.38281520 lat="S1 11.69938920" isOnRunway="0" holdPointType="none"/>
-		<node index="41" lon="E136 5.59935840 lat="S1 11.12213820" isOnRunway="0" holdPointType="none"/>
-		<node index="42" lon="E136 5.56532520 lat="S1 11.11048200" isOnRunway="0" holdPointType="none"/>
-		<node index="43" lon="E136 7.37579160 lat="S1 11.72048340" isOnRunway="0" holdPointType="none"/>
-		<node index="44" lon="E136 5.57252700 lat="S1 11.08943100" isOnRunway="0" holdPointType="none"/>
-		<node index="45" lon="E136 5.62856760 lat="S1 11.10910920" isOnRunway="0" holdPointType="none"/>
-		<node index="46" lon="E136 5.93236920 lat="S1 11.21544300" isOnRunway="0" holdPointType="none"/>
-		<node index="47" lon="E136 6.36888600 lat="S1 11.36790360" isOnRunway="0" holdPointType="none"/>
-		<node index="48" lon="E136 6.45945660 lat="S1 11.39975760" isOnRunway="0" holdPointType="none"/>
-		<node index="49" lon="E136 6.53957100 lat="S1 11.42795520" isOnRunway="0" holdPointType="none"/>
-		<node index="50" lon="E136 7.31074260 lat="S1 11.69759100" isOnRunway="0" holdPointType="none"/>
+		<node index="0" lon="E136 6.44823840" lat="S1 11.54139300" isOnRunway="0" holdPointType="none"/>
+		<node index="1" lon="E136 6.46146660" lat="S1 11.54449920" isOnRunway="0" holdPointType="none"/>
+		<node index="2" lon="E136 6.49126620" lat="S1 11.52920820" isOnRunway="0" holdPointType="none"/>
+		<node index="3" lon="E136 6.48013860" lat="S1 11.52673860" isOnRunway="0" holdPointType="none"/>
+		<node index="4" lon="E136 6.48310020" lat="S1 11.53352040" isOnRunway="0" holdPointType="none"/>
+		<node index="5" lon="E136 6.47705880" lat="S1 11.52490440" isOnRunway="0" holdPointType="none"/>
+		<node index="6" lon="E136 6.46699080" lat="S1 11.52621840" isOnRunway="0" holdPointType="none"/>
+		<node index="7" lon="E136 6.34351080" lat="S1 11.48473320" isOnRunway="0" holdPointType="none"/>
+		<node index="8" lon="E136 6.37611780" lat="S1 11.49566580" isOnRunway="0" holdPointType="none"/>
+		<node index="9" lon="E136 6.39526020" lat="S1 11.50208340" isOnRunway="0" holdPointType="none"/>
+		<node index="10" lon="E136 6.42408780" lat="S1 11.51174880" isOnRunway="0" holdPointType="none"/>
+		<node index="11" lon="E136 6.44787960" lat="S1 11.51972520" isOnRunway="0" holdPointType="none"/>
+		<node index="12" lon="E136 5.93724000" lat="S1 11.05044660" isOnRunway="0" holdPointType="none"/>
+		<node index="13" lon="E136 5.88191580" lat="S1 11.05577220" isOnRunway="0" holdPointType="none"/>
+		<node index="14" lon="E136 5.91065100" lat="S1 11.05300620" isOnRunway="0" holdPointType="none"/>
+		<node index="15" lon="E136 5.85440220" lat="S1 11.04928200" isOnRunway="0" holdPointType="none"/>
+		<node index="16" lon="E136 5.91058560" lat="S1 11.01226740" isOnRunway="0" holdPointType="none"/>
+		<node index="17" lon="E136 5.84387760" lat="S1 11.04534660" isOnRunway="0" holdPointType="none"/>
+		<node index="18" lon="E136 5.82957480" lat="S1 11.05398180" isOnRunway="0" holdPointType="none"/>
+		<node index="19" lon="E136 5.84020440" lat="S1 11.04754020" isOnRunway="0" holdPointType="none"/>
+		<node index="20" lon="E136 5.81958420" lat="S1 11.06611500" isOnRunway="0" holdPointType="none"/>
+		<node index="21" lon="E136 5.81801700" lat="S1 11.07538140" isOnRunway="0" holdPointType="none"/>
+		<node index="22" lon="E136 5.82186000" lat="S1 11.08886760" isOnRunway="0" holdPointType="none"/>
+		<node index="23" lon="E136 5.83593060" lat="S1 11.10599460" isOnRunway="0" holdPointType="none"/>
+		<node index="24" lon="E136 6.39952020" lat="S1 11.45898840" isOnRunway="0" holdPointType="none"/>
+		<node index="25" lon="E136 6.50155080" lat="S1 11.48404500" isOnRunway="0" holdPointType="none"/>
+		<node index="26" lon="E136 6.49304160" lat="S1 11.48837340" isOnRunway="0" holdPointType="none"/>
+		<node index="27" lon="E136 6.48478020" lat="S1 11.48864580" isOnRunway="0" holdPointType="none"/>
+		<node index="28" lon="E136 6.43512720" lat="S1 11.47137420" isOnRunway="0" holdPointType="none"/>
+		<node index="29" lon="E136 6.46037820" lat="S1 11.48015760" isOnRunway="0" holdPointType="none"/>
+		<node index="30" lon="E136 6.41723880" lat="S1 11.46515160" isOnRunway="0" holdPointType="none"/>
+		<node index="31" lon="E136 6.44329140" lat="S1 11.22758220" isOnRunway="0" holdPointType="none"/>
+		<node index="32" lon="E136 6.44785740" lat="S1 11.23923300" isOnRunway="0" holdPointType="none"/>
+		<node index="33" lon="E136 6.39385800" lat="S1 11.29863540" isOnRunway="0" holdPointType="none"/>
+		<node index="34" lon="E136 6.37963800" lat="S1 11.32228320" isOnRunway="0" holdPointType="none"/>
+		<node index="35" lon="E136 6.38589000" lat="S1 11.30848860" isOnRunway="0" holdPointType="none"/>
+		<node index="36" lon="E136 6.51648600" lat="S1 11.46202440" isOnRunway="0" holdPointType="none"/>
+		<node index="37" lon="E136 6.44904480" lat="S1 11.43021720" isOnRunway="0" holdPointType="none"/>
+		<node index="38" lon="E136 5.88223800" lat="S1 11.15847540" isOnRunway="0" holdPointType="none"/>
+		<node index="39" lon="E136 7.34624820" lat="S1 11.68696200" isOnRunway="0" holdPointType="none"/>
+		<node index="40" lon="E136 7.38281520" lat="S1 11.69938920" isOnRunway="0" holdPointType="none"/>
+		<node index="41" lon="E136 5.59935840" lat="S1 11.12213820" isOnRunway="0" holdPointType="none"/>
+		<node index="42" lon="E136 5.56532520" lat="S1 11.11048200" isOnRunway="0" holdPointType="none"/>
+		<node index="43" lon="E136 7.37579160" lat="S1 11.72048340" isOnRunway="0" holdPointType="none"/>
+		<node index="44" lon="E136 5.57252700" lat="S1 11.08943100" isOnRunway="0" holdPointType="none"/>
+		<node index="45" lon="E136 5.62856760" lat="S1 11.10910920" isOnRunway="0" holdPointType="none"/>
+		<node index="46" lon="E136 5.93236920" lat="S1 11.21544300" isOnRunway="0" holdPointType="none"/>
+		<node index="47" lon="E136 6.36888600" lat="S1 11.36790360" isOnRunway="0" holdPointType="none"/>
+		<node index="48" lon="E136 6.45945660" lat="S1 11.39975760" isOnRunway="0" holdPointType="none"/>
+		<node index="49" lon="E136 6.53957100" lat="S1 11.42795520" isOnRunway="0" holdPointType="none"/>
+		<node index="50" lon="E136 7.31074260" lat="S1 11.69759100" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="44" end="45" isPushBackRoute="0" name="11/29"/>

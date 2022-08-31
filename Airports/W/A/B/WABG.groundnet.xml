@@ -2,17 +2,17 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="gate" name="Ramp Start 1" lon="E136 17.08352040" lat="S4 3.28895400" heading="133" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="gate" name="Ramp Start 2" lon="E136 17.09372820" lat="S4 3.27752880" heading="134" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="2" type="gate" name="Ramp Start 3" lon="E136 17.10494520" lat="S4 3.26742180" heading="135" radius="14" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="gate" name="Ramp Start 1" lon="E136 17.08352040" lat="S4 3.28895400" heading="133" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="gate" name="Ramp Start 2" lon="E136 17.09372820" lat="S4 3.27752880" heading="134" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="2" type="gate" name="Ramp Start 3" lon="E136 17.10494520" lat="S4 3.26742180" heading="135" radius="14" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="0" lon="E136 17.08563540 lat="S4 3.29504760" isOnRunway="0" holdPointType="none"/>
-		<node index="1" lon="E136 17.10845580 lat="S4 3.27200280" isOnRunway="0" holdPointType="none"/>
-		<node index="2" lon="E136 17.12430120 lat="S4 3.28701660" isOnRunway="0" holdPointType="none"/>
-		<node index="3" lon="E136 17.17010940 lat="S4 3.28079580" isOnRunway="0" holdPointType="none"/>
-		<node index="4" lon="E136 16.63895640 lat="S4 3.82005180" isOnRunway="0" holdPointType="none"/>
-		<node index="5" lon="E136 17.14462200 lat="S4 3.30669720" isOnRunway="0" holdPointType="none"/>
+		<node index="0" lon="E136 17.08563540" lat="S4 3.29504760" isOnRunway="0" holdPointType="none"/>
+		<node index="1" lon="E136 17.10845580" lat="S4 3.27200280" isOnRunway="0" holdPointType="none"/>
+		<node index="2" lon="E136 17.12430120" lat="S4 3.28701660" isOnRunway="0" holdPointType="none"/>
+		<node index="3" lon="E136 17.17010940" lat="S4 3.28079580" isOnRunway="0" holdPointType="none"/>
+		<node index="4" lon="E136 16.63895640" lat="S4 3.82005180" isOnRunway="0" holdPointType="none"/>
+		<node index="5" lon="E136 17.14462200" lat="S4 3.30669720" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="4" end="5" isPushBackRoute="0" name="04/22"/>

@@ -2,11 +2,11 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="tie_down" name="GA 6 (B)" lon="E137 57.64766340" lat="S3 42.07371660" heading="264" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="tie_down" name="GA 4 (B)" lon="E137 57.64741140" lat="S3 42.06158460" heading="264" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="2" type="tie_down" name="GA 2 (B)" lon="E137 57.64715940" lat="S3 42.04953480" heading="264" radius="14" pushBackRoute="False" airlineCodes=""/>
-		<parking index="3" type="tie_down" name="GA 3 (A)" lon="E137 57.63236820" lat="S3 42.07439880" heading="87" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="4" type="tie_down" name="GA 3 (A)" lon="E137 57.63194820" lat="S3 42.06193620" heading="87" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="5" type="tie_down" name="GA 1 (AH)" lon="E137 57.63211620" lat="S3 42.05038200" heading="87" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="GA 6 (B)" lon="E137 57.64766340" lat="S3 42.07371660" heading="264" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="tie_down" name="GA 4 (B)" lon="E137 57.64741140" lat="S3 42.06158460" heading="264" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="2" type="tie_down" name="GA 2 (B)" lon="E137 57.64715940" lat="S3 42.04953480" heading="264" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="3" type="tie_down" name="GA 3 (A)" lon="E137 57.63236820" lat="S3 42.07439880" heading="87" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="4" type="tie_down" name="GA 3 (A)" lon="E137 57.63194820" lat="S3 42.06193620" heading="87" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="5" type="tie_down" name="GA 1 (AH)" lon="E137 57.63211620" lat="S3 42.05038200" heading="87" radius="7.5" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 </groundnet>

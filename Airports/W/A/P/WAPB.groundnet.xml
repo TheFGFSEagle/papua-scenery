@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<parking index="0" type="hangar" name="Hanger" lon="E130 30.42638160" lat="S3 6.42558840" heading="335" radius="7.5" pushBackRoute="False" airlineCodes=""/>
-		<parking index="1" type="misc" name="Helipad" lon="E130 30.43069860" lat="S3 6.40521060" heading="135" radius="7.5" pushBackRoute="False" airlineCodes=""/>
+		<Parking index="0" type="hangar" name="Hanger" lon="E130 30.42638160" lat="S3 6.42558840" heading="335" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="1" type="misc" name="Helipad" lon="E130 30.43069860" lat="S3 6.40521060" heading="135" radius="7.5" pushBackRoute="0" airlineCodes=""/>
 	</parkingList>
 </groundnet>
