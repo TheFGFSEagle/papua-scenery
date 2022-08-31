@@ -2,9 +2,9 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA 2" lon="E144 26.80614120" lat="S5 21.61270920" heading="23" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="tie_down" name="GA 1" lon="E144 26.81834100" lat="S5 21.59849640" heading="154" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="2" type="tie_down" name="GA 3" lon="E144 26.79293400" lat="S5 21.62885820" heading="208" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="GA 2" lon="E144 26.80614120" lat="S5 21.61270920" heading="23" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA 1" lon="E144 26.81834100" lat="S5 21.59849640" heading="154" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="GA 3" lon="E144 26.79293400" lat="S5 21.62885820" heading="208" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
 		<node index="0" lon="E144 26.77222800" lat="S5 21.63251580" isOnRunway="0" holdPointType="none"/>

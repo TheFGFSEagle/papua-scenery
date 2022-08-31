@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA2 (B)" lon="E144 6.36338760" lat="S6 22.85460360" heading="81" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="tie_down" name="GA1 (A)" lon="E144 6.36983640" lat="S6 22.88078400" heading="80" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="GA2 (B)" lon="E144 6.36338760" lat="S6 22.85460360" heading="81" radius="14"/>
+		<Parking index="1" type="tie_down" name="GA1 (A)" lon="E144 6.36983640" lat="S6 22.88078400" heading="80" radius="7.5"/>
 	</parkingList>
 </groundnet>

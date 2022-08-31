@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="SE Apron" lon="E132 44.16486840" lat="S5 39.77533680" heading="272" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="gate" name="N Apron" lon="E132 44.07698460" lat="S5 39.51518880" heading="264" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="gate" name="SE Apron" lon="E132 44.16486840" lat="S5 39.77533680" heading="272" radius="7.5"/>
+		<Parking index="1" type="gate" name="N Apron" lon="E132 44.07698460" lat="S5 39.51518880" heading="264" radius="7.5"/>
 	</parkingList>
 </groundnet>

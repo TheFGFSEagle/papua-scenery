@@ -2,18 +2,18 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA1" lon="E146 44.24494500" lat="S6 34.01204460" heading="95" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="tie_down" name="GA2" lon="E146 44.24610840" lat="S6 34.00098840" heading="95" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="2" type="tie_down" name="GA3" lon="E146 44.29845840" lat="S6 33.99876960" heading="52" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="3" type="gate" name="Gate 1" lon="E146 43.61474940" lat="S6 33.94682820" heading="51" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="4" type="gate" name="Gate 2" lon="E146 43.64149440" lat="S6 33.94991760" heading="50" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="5" type="gate" name="Gate 3" lon="E146 43.66817400" lat="S6 33.95287740" heading="49" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="6" type="gate" name="Gate 4" lon="E146 43.69501380" lat="S6 33.95512320" heading="50" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="7" type="gate" name="Gate 5" lon="E146 43.72225800" lat="S6 33.95751540" heading="50" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="8" type="gate" name="Gate 6" lon="E146 43.74935160" lat="S6 33.95931000" heading="49" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="9" type="tie_down" name="Helipad" lon="E146 43.78740900" lat="S6 33.99651300" heading="272" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="10" type="tie_down" name="Cargo Ramp" lon="E146 43.58587620" lat="S6 33.85576140" heading="184" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="11" type="tie_down" name="Cargo Ramp 2" lon="E146 43.58026440" lat="S6 33.79627320" heading="93" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="GA1" lon="E146 44.24494500" lat="S6 34.01204460" heading="95" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA2" lon="E146 44.24610840" lat="S6 34.00098840" heading="95" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="GA3" lon="E146 44.29845840" lat="S6 33.99876960" heading="52" radius="7.5"/>
+		<Parking index="3" type="gate" name="Gate 1" lon="E146 43.61474940" lat="S6 33.94682820" heading="51" radius="14"/>
+		<Parking index="4" type="gate" name="Gate 2" lon="E146 43.64149440" lat="S6 33.94991760" heading="50" radius="14"/>
+		<Parking index="5" type="gate" name="Gate 3" lon="E146 43.66817400" lat="S6 33.95287740" heading="49" radius="14"/>
+		<Parking index="6" type="gate" name="Gate 4" lon="E146 43.69501380" lat="S6 33.95512320" heading="50" radius="14"/>
+		<Parking index="7" type="gate" name="Gate 5" lon="E146 43.72225800" lat="S6 33.95751540" heading="50" radius="14"/>
+		<Parking index="8" type="gate" name="Gate 6" lon="E146 43.74935160" lat="S6 33.95931000" heading="49" radius="14"/>
+		<Parking index="9" type="tie_down" name="Helipad" lon="E146 43.78740900" lat="S6 33.99651300" heading="272" radius="7.5"/>
+		<Parking index="10" type="tie_down" name="Cargo Ramp" lon="E146 43.58587620" lat="S6 33.85576140" heading="184" radius="14"/>
+		<Parking index="11" type="tie_down" name="Cargo Ramp 2" lon="E146 43.58026440" lat="S6 33.79627320" heading="93" radius="14"/>
 	</parkingList>
 	<TaxiNodes>
 		<node index="0" lon="E146 44.27524620" lat="S6 34.01461440" isOnRunway="0" holdPointType="none"/>

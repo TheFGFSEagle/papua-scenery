@@ -2,58 +2,58 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="Itinerant Terminal 1" lon="E147 12.82946520" lat="S9 26.50787160" heading="193" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="gate" name="International Gate 1" lon="E147 12.74010900" lat="S9 26.35181880" heading="-119" radius="26" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="2" type="gate" name="International Gate 2" lon="E147 12.72373500" lat="S9 26.32527180" heading="-119" radius="33" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="3" type="gate" name="International Gate 4" lon="E147 12.68824560" lat="S9 26.26559460" heading="-116" radius="33" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="4" type="tie_down" name="Domestic 4" lon="E147 12.71751420" lat="S9 26.18325420" heading="-15" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="5" type="tie_down" name="Domestic 6" lon="E147 17.10555000" lat="S9 26.18177520" heading="-179" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="6" type="tie_down" name="Domestic 5" lon="E147 12.65456940" lat="S9 26.19641220" heading="-180" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="7" type="tie_down" name="Domestic 9" lon="E147 12.63296400" lat="S9 26.13945240" heading="-20" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="8" type="tie_down" name="Domestic 13" lon="E147 12.64091760" lat="S9 26.10495120" heading="-226" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="9" type="gate" name="Cargo Ramp" lon="E147 12.96695280" lat="S9 26.69632440" heading="177" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="10" type="gate" name="Cargo Ramp" lon="E147 12.98497320" lat="S9 26.68649700" heading="175" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="11" type="gate" name="Cargo Ramp" lon="E147 12.94908960" lat="S9 26.70324180" heading="175" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="12" type="gate" name="Cargo Ramp" lon="E147 12.95768100" lat="S9 26.63680380" heading="304" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="13" type="gate" name="Cargo Ramp" lon="E147 12.93972240" lat="S9 26.64756540" heading="304" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="14" type="gate" name="Cargo Ramp" lon="E147 12.92253060" lat="S9 26.65896300" heading="304" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="15" type="gate" name="Light GA 1" lon="E147 13.16344020" lat="S9 26.97142200" heading="146" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="16" type="gate" name="Light GA 2" lon="E147 13.17720120" lat="S9 26.96366340" heading="146" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="17" type="gate" name="Helifix 1" lon="E147 12.79197900" lat="S9 26.43185880" heading="237" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="18" type="gate" name="Helifix 2" lon="E147 12.78452160" lat="S9 26.42073180" heading="237" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="19" type="tie_down" name="PNG DF 4" lon="E147 13.11715080" lat="S9 26.01591060" heading="151" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="20" type="tie_down" name="PNG DF 5" lon="E147 13.13827380" lat="S9 26.00226120" heading="151" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="21" type="tie_down" name="PNG DF 6" lon="E147 13.15401120" lat="S9 25.99370580" heading="151" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="22" type="tie_down" name="PNG DF 7" lon="E147 13.09524600" lat="S9 25.97775960" heading="151" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="23" type="tie_down" name="PNG DF 10" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="24" type="gate" name="PNG DF 2" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="25" type="gate" name="PNG DF 2" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="26" type="tie_down" name="PNG DF 11" lon="E147 13.09059360" lat="S9 25.93164840" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="27" type="tie_down" name="PNG DF 12" lon="E147 13.10932620" lat="S9 25.92434640" heading="146" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="28" type="tie_down" name="PNG DF 9" lon="E147 13.13123100" lat="S9 25.95832440" heading="146" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="29" type="tie_down" name="PNG DF 8" lon="E147 13.11536880" lat="S9 25.96637160" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="30" type="tie_down" name="PNG DF 3" lon="E147 13.24669800" lat="S9 26.13269880" heading="151" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="31" type="gate" name="PNG DF 2" lon="E147 13.23128880" lat="S9 26.14191000" heading="151" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="32" type="gate" name="PNG DF 1" lon="E147 13.21103520" lat="S9 26.15700600" heading="151" radius="33" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="33" type="tie_down" name="GA 1" lon="E147 13.19281080" lat="S9 27.01358760" heading="238" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="34" type="tie_down" name="New Ramp Start 30" lon="E147 13.18160820" lat="S9 27.00051780" heading="237" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="35" type="tie_down" name="GA 3" lon="E147 13.16867400" lat="S9 26.98134660" heading="-123" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="36" type="tie_down" name="New Ramp Start 35" lon="E147 13.14359580" lat="S9 26.96672220" heading="0" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="37" type="tie_down" name="New Ramp Start 34" lon="E147 13.13185320" lat="S9 26.94732300" heading="238" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="38" type="tie_down" name="New Ramp Start 33" lon="E147 13.12499340" lat="S9 26.92468080" heading="59" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="39" type="tie_down" name="Corporate Ramp" lon="E147 12.78325500" lat="S9 26.34894900" heading="-25" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="40" type="gate" name="International Gate 3" lon="E147 12.70695780" lat="S9 26.29370700" heading="240" radius="26" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="41" type="gate" name="Itinerant Terminal 2" lon="E147 12.81770580" lat="S9 26.48957340" heading="193" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="42" type="tie_down" name="Domestic 11" lon="E147 12.60190140" lat="S9 26.12907180" heading="146" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="43" type="tie_down" name="Domestic 12" lon="E147 12.62185440" lat="S9 26.11781940" heading="137" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="44" type="tie_down" name="Domestic 14" lon="E147 12.66108480" lat="S9 26.09573760" heading="132" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="45" type="tie_down" name="Domestic 1" lon="E147 12.66011220" lat="S9 26.21904120" heading="-32" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="46" type="tie_down" name="Domestic 2" lon="E147 12.68175120" lat="S9 26.20436460" heading="-16" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="47" type="tie_down" name="Domestic 3" lon="E147 12.70035420" lat="S9 26.19366660" heading="-14" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="48" type="tie_down" name="Domestic 7" lon="E147 12.70156500" lat="S9 26.16859440" heading="171" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="49" type="tie_down" name="Domestic 10" lon="E147 12.61371960" lat="S9 26.15154240" heading="-31" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="50" type="tie_down" name="Domestic 8" lon="E147 12.65274060" lat="S9 26.12804940" heading="-22" radius="18" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="51" type="tie_down" name="Domestic 7" lon="E147 12.67313880" lat="S9 26.11633980" heading="-19" radius="18" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="gate" name="Itinerant Terminal 1" lon="E147 12.82946520" lat="S9 26.50787160" heading="193" radius="14"/>
+		<Parking index="1" type="gate" name="International Gate 1" lon="E147 12.74010900" lat="S9 26.35181880" heading="-119" radius="26"/>
+		<Parking index="2" type="gate" name="International Gate 2" lon="E147 12.72373500" lat="S9 26.32527180" heading="-119" radius="33"/>
+		<Parking index="3" type="gate" name="International Gate 4" lon="E147 12.68824560" lat="S9 26.26559460" heading="-116" radius="33"/>
+		<Parking index="4" type="tie_down" name="Domestic 4" lon="E147 12.71751420" lat="S9 26.18325420" heading="-15" radius="18"/>
+		<Parking index="5" type="tie_down" name="Domestic 6" lon="E147 17.10555000" lat="S9 26.18177520" heading="-179" radius="18"/>
+		<Parking index="6" type="tie_down" name="Domestic 5" lon="E147 12.65456940" lat="S9 26.19641220" heading="-180" radius="18"/>
+		<Parking index="7" type="tie_down" name="Domestic 9" lon="E147 12.63296400" lat="S9 26.13945240" heading="-20" radius="18"/>
+		<Parking index="8" type="tie_down" name="Domestic 13" lon="E147 12.64091760" lat="S9 26.10495120" heading="-226" radius="18"/>
+		<Parking index="9" type="gate" name="Cargo Ramp" lon="E147 12.96695280" lat="S9 26.69632440" heading="177" radius="18"/>
+		<Parking index="10" type="gate" name="Cargo Ramp" lon="E147 12.98497320" lat="S9 26.68649700" heading="175" radius="18"/>
+		<Parking index="11" type="gate" name="Cargo Ramp" lon="E147 12.94908960" lat="S9 26.70324180" heading="175" radius="18"/>
+		<Parking index="12" type="gate" name="Cargo Ramp" lon="E147 12.95768100" lat="S9 26.63680380" heading="304" radius="18"/>
+		<Parking index="13" type="gate" name="Cargo Ramp" lon="E147 12.93972240" lat="S9 26.64756540" heading="304" radius="14"/>
+		<Parking index="14" type="gate" name="Cargo Ramp" lon="E147 12.92253060" lat="S9 26.65896300" heading="304" radius="14"/>
+		<Parking index="15" type="gate" name="Light GA 1" lon="E147 13.16344020" lat="S9 26.97142200" heading="146" radius="7.5"/>
+		<Parking index="16" type="gate" name="Light GA 2" lon="E147 13.17720120" lat="S9 26.96366340" heading="146" radius="7.5"/>
+		<Parking index="17" type="gate" name="Helifix 1" lon="E147 12.79197900" lat="S9 26.43185880" heading="237" radius="14"/>
+		<Parking index="18" type="gate" name="Helifix 2" lon="E147 12.78452160" lat="S9 26.42073180" heading="237" radius="14"/>
+		<Parking index="19" type="tie_down" name="PNG DF 4" lon="E147 13.11715080" lat="S9 26.01591060" heading="151" radius="18"/>
+		<Parking index="20" type="tie_down" name="PNG DF 5" lon="E147 13.13827380" lat="S9 26.00226120" heading="151" radius="18"/>
+		<Parking index="21" type="tie_down" name="PNG DF 6" lon="E147 13.15401120" lat="S9 25.99370580" heading="151" radius="14"/>
+		<Parking index="22" type="tie_down" name="PNG DF 7" lon="E147 13.09524600" lat="S9 25.97775960" heading="151" radius="18"/>
+		<Parking index="23" type="tie_down" name="PNG DF 10" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18"/>
+		<Parking index="24" type="gate" name="PNG DF 2" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18"/>
+		<Parking index="25" type="gate" name="PNG DF 2" lon="E147 13.07019960" lat="S9 25.94446500" heading="146" radius="18"/>
+		<Parking index="26" type="tie_down" name="PNG DF 11" lon="E147 13.09059360" lat="S9 25.93164840" heading="146" radius="18"/>
+		<Parking index="27" type="tie_down" name="PNG DF 12" lon="E147 13.10932620" lat="S9 25.92434640" heading="146" radius="14"/>
+		<Parking index="28" type="tie_down" name="PNG DF 9" lon="E147 13.13123100" lat="S9 25.95832440" heading="146" radius="14"/>
+		<Parking index="29" type="tie_down" name="PNG DF 8" lon="E147 13.11536880" lat="S9 25.96637160" heading="146" radius="18"/>
+		<Parking index="30" type="tie_down" name="PNG DF 3" lon="E147 13.24669800" lat="S9 26.13269880" heading="151" radius="14"/>
+		<Parking index="31" type="gate" name="PNG DF 2" lon="E147 13.23128880" lat="S9 26.14191000" heading="151" radius="14"/>
+		<Parking index="32" type="gate" name="PNG DF 1" lon="E147 13.21103520" lat="S9 26.15700600" heading="151" radius="33"/>
+		<Parking index="33" type="tie_down" name="GA 1" lon="E147 13.19281080" lat="S9 27.01358760" heading="238" radius="14"/>
+		<Parking index="34" type="tie_down" name="New Ramp Start 30" lon="E147 13.18160820" lat="S9 27.00051780" heading="237" radius="14"/>
+		<Parking index="35" type="tie_down" name="GA 3" lon="E147 13.16867400" lat="S9 26.98134660" heading="-123" radius="7.5"/>
+		<Parking index="36" type="tie_down" name="New Ramp Start 35" lon="E147 13.14359580" lat="S9 26.96672220" heading="0" radius="7.5"/>
+		<Parking index="37" type="tie_down" name="New Ramp Start 34" lon="E147 13.13185320" lat="S9 26.94732300" heading="238" radius="14"/>
+		<Parking index="38" type="tie_down" name="New Ramp Start 33" lon="E147 13.12499340" lat="S9 26.92468080" heading="59" radius="14"/>
+		<Parking index="39" type="tie_down" name="Corporate Ramp" lon="E147 12.78325500" lat="S9 26.34894900" heading="-25" radius="14"/>
+		<Parking index="40" type="gate" name="International Gate 3" lon="E147 12.70695780" lat="S9 26.29370700" heading="240" radius="26"/>
+		<Parking index="41" type="gate" name="Itinerant Terminal 2" lon="E147 12.81770580" lat="S9 26.48957340" heading="193" radius="14"/>
+		<Parking index="42" type="tie_down" name="Domestic 11" lon="E147 12.60190140" lat="S9 26.12907180" heading="146" radius="18"/>
+		<Parking index="43" type="tie_down" name="Domestic 12" lon="E147 12.62185440" lat="S9 26.11781940" heading="137" radius="18"/>
+		<Parking index="44" type="tie_down" name="Domestic 14" lon="E147 12.66108480" lat="S9 26.09573760" heading="132" radius="18"/>
+		<Parking index="45" type="tie_down" name="Domestic 1" lon="E147 12.66011220" lat="S9 26.21904120" heading="-32" radius="18"/>
+		<Parking index="46" type="tie_down" name="Domestic 2" lon="E147 12.68175120" lat="S9 26.20436460" heading="-16" radius="18"/>
+		<Parking index="47" type="tie_down" name="Domestic 3" lon="E147 12.70035420" lat="S9 26.19366660" heading="-14" radius="18"/>
+		<Parking index="48" type="tie_down" name="Domestic 7" lon="E147 12.70156500" lat="S9 26.16859440" heading="171" radius="18"/>
+		<Parking index="49" type="tie_down" name="Domestic 10" lon="E147 12.61371960" lat="S9 26.15154240" heading="-31" radius="18"/>
+		<Parking index="50" type="tie_down" name="Domestic 8" lon="E147 12.65274060" lat="S9 26.12804940" heading="-22" radius="18"/>
+		<Parking index="51" type="tie_down" name="Domestic 7" lon="E147 12.67313880" lat="S9 26.11633980" heading="-19" radius="18"/>
 	</parkingList>
 	<TaxiNodes>
 		<node index="0" lon="E147 13.21698900" lat="S9 26.99220300" isOnRunway="0" holdPointType="none"/>

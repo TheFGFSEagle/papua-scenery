@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="New Ramp Start 1" lon="E145 52.39931580" lat="S6 50.36537520" heading="-76" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="New Ramp Start 1" lon="E145 52.39931580" lat="S6 50.36537520" heading="-76" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
 		<node index="0" lon="E145 52.44463320" lat="S6 50.16404880" isOnRunway="0" holdPointType="none"/>

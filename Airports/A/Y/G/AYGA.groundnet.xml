@@ -2,22 +2,22 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="Gate 1" lon="E145 23.54736420" lat="S6 4.44242760" heading="220" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="gate" name="Gate 2" lon="E145 23.54682300" lat="S6 4.45626720" heading="220" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="2" type="gate" name="Gate 3" lon="E145 23.54744340" lat="S6 4.47104040" heading="220" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="3" type="gate" name="Gate 4" lon="E145 23.55215460" lat="S6 4.49284980" heading="130" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="4" type="gate" name="Gate 5" lon="E145 23.55699720" lat="S6 4.51860300" heading="130" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="5" type="tie_down" name="NTM Ramp" lon="E145 23.56390680" lat="S6 4.72459560" heading="-183" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="6" type="misc" name="NTM Ramp" lon="E145 23.57004540" lat="S6 4.74882540" heading="179" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="7" type="tie_down" name="NTM Ramp" lon="E145 23.57908980" lat="S6 4.75096380" heading="179" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="8" type="tie_down" name="NTM Ramp" lon="E145 23.55719460" lat="S6 4.77893280" heading="86" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="9" type="tie_down" name="GA Parking" lon="E145 23.57958720" lat="S6 4.76546100" heading="225" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="10" type="tie_down" name="GA Parking" lon="E145 23.57515800" lat="S6 4.78714980" heading="-184" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="11" type="tie_down" name="GA Parking" lon="E145 23.55843180" lat="S6 4.79196660" heading="86" radius="7.5" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="12" type="tie_down" name="GA Parking" lon="E145 23.57979360" lat="S6 4.80633660" heading="-4" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="13" type="tie_down" name="GA Parking" lon="E145 23.55876720" lat="S6 4.81531800" heading="354" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="14" type="tie_down" name="MAF Ramp" lon="E145 23.41740660" lat="S6 5.02575180" heading="356" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="15" type="tie_down" name="MAF Ramp" lon="E145 23.42507160" lat="S6 5.03974320" heading="358" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="gate" name="Gate 1" lon="E145 23.54736420" lat="S6 4.44242760" heading="220" radius="14"/>
+		<Parking index="1" type="gate" name="Gate 2" lon="E145 23.54682300" lat="S6 4.45626720" heading="220" radius="14"/>
+		<Parking index="2" type="gate" name="Gate 3" lon="E145 23.54744340" lat="S6 4.47104040" heading="220" radius="14"/>
+		<Parking index="3" type="gate" name="Gate 4" lon="E145 23.55215460" lat="S6 4.49284980" heading="130" radius="14"/>
+		<Parking index="4" type="gate" name="Gate 5" lon="E145 23.55699720" lat="S6 4.51860300" heading="130" radius="14"/>
+		<Parking index="5" type="tie_down" name="NTM Ramp" lon="E145 23.56390680" lat="S6 4.72459560" heading="-183" radius="14"/>
+		<Parking index="6" type="misc" name="NTM Ramp" lon="E145 23.57004540" lat="S6 4.74882540" heading="179" radius="14"/>
+		<Parking index="7" type="tie_down" name="NTM Ramp" lon="E145 23.57908980" lat="S6 4.75096380" heading="179" radius="7.5"/>
+		<Parking index="8" type="tie_down" name="NTM Ramp" lon="E145 23.55719460" lat="S6 4.77893280" heading="86" radius="7.5"/>
+		<Parking index="9" type="tie_down" name="GA Parking" lon="E145 23.57958720" lat="S6 4.76546100" heading="225" radius="7.5"/>
+		<Parking index="10" type="tie_down" name="GA Parking" lon="E145 23.57515800" lat="S6 4.78714980" heading="-184" radius="14"/>
+		<Parking index="11" type="tie_down" name="GA Parking" lon="E145 23.55843180" lat="S6 4.79196660" heading="86" radius="7.5"/>
+		<Parking index="12" type="tie_down" name="GA Parking" lon="E145 23.57979360" lat="S6 4.80633660" heading="-4" radius="14"/>
+		<Parking index="13" type="tie_down" name="GA Parking" lon="E145 23.55876720" lat="S6 4.81531800" heading="354" radius="14"/>
+		<Parking index="14" type="tie_down" name="MAF Ramp" lon="E145 23.41740660" lat="S6 5.02575180" heading="356" radius="14"/>
+		<Parking index="15" type="tie_down" name="MAF Ramp" lon="E145 23.42507160" lat="S6 5.03974320" heading="358" radius="14"/>
 	</parkingList>
 	<TaxiNodes>
 		<node index="0" lon="E145 23.54690100" lat="S6 4.80333540" isOnRunway="0" holdPointType="none"/>

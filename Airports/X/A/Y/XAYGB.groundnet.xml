@@ -2,8 +2,8 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Passengers Drop Off" lon="E143 43.43246100" lat="S6 52.70917380" heading="225" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="1" type="tie_down" name="Cargo" lon="E143 43.42280940" lat="S6 52.68127920" heading="135" radius="14" pushBackRoute="0" airlineCodes=""/>
-		<Parking index="2" type="tie_down" name="Parking" lon="E143 43.49996940" lat="S6 52.78668240" heading="224" radius="14" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="tie_down" name="Passengers Drop Off" lon="E143 43.43246100" lat="S6 52.70917380" heading="225" radius="14"/>
+		<Parking index="1" type="tie_down" name="Cargo" lon="E143 43.42280940" lat="S6 52.68127920" heading="135" radius="14"/>
+		<Parking index="2" type="tie_down" name="Parking" lon="E143 43.49996940" lat="S6 52.78668240" heading="224" radius="14"/>
 	</parkingList>
 </groundnet>

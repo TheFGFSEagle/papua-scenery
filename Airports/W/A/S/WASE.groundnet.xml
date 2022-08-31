@@ -2,6 +2,6 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="New Ramp Start 36" lon="E133 3.28647300" lat="S0 48.55230660" heading="100" radius="7.5" pushBackRoute="0" airlineCodes=""/>
+		<Parking index="0" type="gate" name="New Ramp Start 36" lon="E133 3.28647300" lat="S0 48.55230660" heading="100" radius="7.5"/>
 	</parkingList>
 </groundnet>
