@@ -1,6 +1,6 @@
 OBJECT_BASE 5313802.btg
 OBJECT AYMH.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 144.307702 -5.832070 1628.1 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 144.299721 -5.829325 1634.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 144.292051 -5.822702 1644.4 0.00
-OBJECT_SHARED Models/Airport/beacon.xml 144.296170 -5.828452 1639.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 144.307702 -5.832070 1628.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 144.299721 -5.829325 1635.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 144.292051 -5.822702 1644.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 144.296170 -5.828452 1639.3 0.00
