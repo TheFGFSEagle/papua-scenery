@@ -2,19 +2,23 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="misc" name="Parking" lon="E144 49.66943400" lat="S6 29.72921220" heading="119" radius="7.5"/>
+		<Parking index="0" type="misc" name="Parking" lat="S6 29.72921220" lon="E144 49.66943400" heading="119" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="1" lon="E144 49.36173060" lat="S6 29.48382960" isOnRunway="0" holdPointType="none"/>
-		<node index="2" lon="E144 49.75521540" lat="S6 29.74368900" isOnRunway="0" holdPointType="none"/>
-		<node index="3" lon="E144 49.68568440" lat="S6 29.69768880" isOnRunway="0" holdPointType="none"/>
-		<node index="4" lon="E144 49.67429040" lat="S6 29.71417020" isOnRunway="0" holdPointType="none"/>
-		<node index="5" lon="E144 49.67119200" lat="S6 29.71875720" isOnRunway="0" holdPointType="none"/>
+		<node index="1" lat="S6 29.48382960" lon="E144 49.36173060" isOnRunway="0" holdPointType="none"/>
+		<node index="2" lat="S6 29.74368900" lon="E144 49.75521540" isOnRunway="0" holdPointType="none"/>
+		<node index="3" lat="S6 29.69768880" lon="E144 49.68568440" isOnRunway="0" holdPointType="none"/>
+		<node index="4" lat="S6 29.71417020" lon="E144 49.67429040" isOnRunway="0" holdPointType="none"/>
+		<node index="5" lat="S6 29.71875720" lon="E144 49.67119200" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="2" end="3" isPushBackRoute="0" name="12/30"/>
+		<arc begin="3" end="2" isPushBackRoute="0" name="12/30"/>
 		<arc begin="3" end="1" isPushBackRoute="0" name="12/30"/>
+		<arc begin="1" end="3" isPushBackRoute="0" name="12/30"/>
 		<arc begin="5" end="4" isPushBackRoute="0" name="A"/>
+		<arc begin="4" end="5" isPushBackRoute="0" name="A"/>
 		<arc begin="4" end="3" isPushBackRoute="0" name="HS"/>
+		<arc begin="3" end="4" isPushBackRoute="0" name="HS"/>
 	</TaxiWaySegments>
 </groundnet>

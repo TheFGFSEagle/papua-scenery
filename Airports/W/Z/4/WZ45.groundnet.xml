@@ -2,6 +2,6 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="Komopa Start" lon="E136 28.64457600" lat="S3 47.98644720" heading="221" radius="7.5"/>
+		<Parking index="0" type="gate" name="Komopa Start" lat="S3 47.98644720" lon="E136 28.64457600" heading="221" radius="7.5"/>
 	</parkingList>
 </groundnet>

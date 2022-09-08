@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="1" lon="E144 3.20739180" lat="S9 54.82846080" heading="57" radius="7.5"/>
-		<Parking index="1" type="gate" name="2" lon="E144 3.21543720" lat="S9 54.84029640" heading="57" radius="7.5"/>
+		<Parking index="0" type="gate" name="1" lat="S9 54.82846080" lon="E144 3.20739180" heading="57" radius="7.5"/>
+		<Parking index="1" type="gate" name="2" lat="S9 54.84029640" lon="E144 3.21543720" heading="57" radius="7.5"/>
 	</parkingList>
 </groundnet>

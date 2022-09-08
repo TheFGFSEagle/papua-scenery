@@ -2,12 +2,12 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Gate 1" lon="E143 40.09125540" lat="S3 34.82181300" heading="59" radius="14"/>
-		<Parking index="1" type="tie_down" name="Gate 2" lon="E143 40.11952380" lat="S3 34.82924580" heading="57" radius="14"/>
-		<Parking index="2" type="misc" name="Gate 3" lon="E143 40.14672240" lat="S3 34.83503400" heading="57" radius="14"/>
-		<Parking index="3" type="misc" name="Gate 4" lon="E143 40.17268140" lat="S3 34.84145760" heading="60" radius="14"/>
-		<Parking index="4" type="tie_down" name="Gate 5" lon="E143 40.19260740" lat="S3 34.84458960" heading="58" radius="14"/>
-		<Parking index="5" type="tie_down" name="General 1" lon="E143 40.24920600" lat="S3 34.84975620" heading="192" radius="7.5"/>
-		<Parking index="6" type="misc" name="General 2" lon="E143 40.28163120" lat="S3 34.85160600" heading="280" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="Gate 1" lat="S3 34.82181300" lon="E143 40.09125540" heading="59" radius="14"/>
+		<Parking index="1" type="tie_down" name="Gate 2" lat="S3 34.82924580" lon="E143 40.11952380" heading="57" radius="14"/>
+		<Parking index="2" type="misc" name="Gate 3" lat="S3 34.83503400" lon="E143 40.14672240" heading="57" radius="14"/>
+		<Parking index="3" type="misc" name="Gate 4" lat="S3 34.84145760" lon="E143 40.17268140" heading="60" radius="14"/>
+		<Parking index="4" type="tie_down" name="Gate 5" lat="S3 34.84458960" lon="E143 40.19260740" heading="58" radius="14"/>
+		<Parking index="5" type="tie_down" name="General 1" lat="S3 34.84975620" lon="E143 40.24920600" heading="192" radius="7.5"/>
+		<Parking index="6" type="misc" name="General 2" lat="S3 34.85160600" lon="E143 40.28163120" heading="280" radius="7.5"/>
 	</parkingList>
 </groundnet>

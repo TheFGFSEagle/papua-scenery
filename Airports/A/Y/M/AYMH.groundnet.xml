@@ -2,45 +2,57 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA Parking 8" lon="E144 17.93620380" lat="S5 49.78170840" heading="-58" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="GA Parking 7" lon="E144 17.91847140" lat="S5 49.77649380" heading="-58" radius="7.5"/>
-		<Parking index="2" type="tie_down" name="GA Parking 6" lon="E144 17.91347520" lat="S5 49.78545660" heading="-58" radius="7.5"/>
-		<Parking index="3" type="tie_down" name="GA Parking 5" lon="E144 17.91064920" lat="S5 49.78301220" heading="119" radius="7.5"/>
-		<Parking index="4" type="tie_down" name="GA Parking 2" lon="E144 17.73474600" lat="S5 49.67345700" heading="119" radius="7.5"/>
-		<Parking index="5" type="tie_down" name="GA Parking 1" lon="E144 17.75227380" lat="S5 49.66423200" heading="213" radius="7.5"/>
-		<Parking index="6" type="tie_down" name="GA Parking 2" lon="E144 17.77746420" lat="S5 49.68284460" heading="120" radius="7.5"/>
-		<Parking index="7" type="tie_down" name="GA Parking 3" lon="E144 17.77080000" lat="S5 49.69346340" heading="120" radius="7.5"/>
-		<Parking index="8" type="gate" name="Gate 2" lon="E144 17.82320040" lat="S5 49.72447560" heading="-118" radius="18"/>
-		<Parking index="9" type="gate" name="Gate 2" lon="E144 17.84434620" lat="S5 49.73377440" heading="-103" radius="18"/>
-		<Parking index="10" type="gate" name="Gate 1" lon="E144 17.87416980" lat="S5 49.75465380" heading="-148" radius="18"/>
+		<Parking index="0" type="tie_down" name="GA Parking 8" lat="S5 49.78170840" lon="E144 17.93620380" heading="-58" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA Parking 7" lat="S5 49.77649380" lon="E144 17.91847140" heading="-58" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="GA Parking 6" lat="S5 49.78545660" lon="E144 17.91347520" heading="-58" radius="7.5"/>
+		<Parking index="3" type="tie_down" name="GA Parking 5" lat="S5 49.78301220" lon="E144 17.91064920" heading="119" radius="7.5"/>
+		<Parking index="4" type="tie_down" name="GA Parking 2" lat="S5 49.67345700" lon="E144 17.73474600" heading="119" radius="7.5"/>
+		<Parking index="5" type="tie_down" name="GA Parking 1" lat="S5 49.66423200" lon="E144 17.75227380" heading="213" radius="7.5"/>
+		<Parking index="6" type="tie_down" name="GA Parking 2" lat="S5 49.68284460" lon="E144 17.77746420" heading="120" radius="7.5"/>
+		<Parking index="7" type="tie_down" name="GA Parking 3" lat="S5 49.69346340" lon="E144 17.77080000" heading="120" radius="7.5"/>
+		<Parking index="8" type="gate" name="Gate 2" lat="S5 49.72447560" lon="E144 17.82320040" heading="-118" radius="18"/>
+		<Parking index="9" type="gate" name="Gate 2" lat="S5 49.73377440" lon="E144 17.84434620" heading="-103" radius="18"/>
+		<Parking index="10" type="gate" name="Gate 1" lat="S5 49.75465380" lon="E144 17.87416980" heading="-148" radius="18"/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="37" lon="E144 18.16091580" lat="S5 49.52807100" isOnRunway="0" holdPointType="none"/>
-		<node index="38" lon="E144 17.57594820" lat="S5 49.57853340" isOnRunway="0" holdPointType="none"/>
-		<node index="39" lon="E144 17.71309680" lat="S5 49.56670200" isOnRunway="0" holdPointType="none"/>
-		<node index="40" lon="E144 17.75609040" lat="S5 49.56299340" isOnRunway="0" holdPointType="none"/>
-		<node index="41" lon="E144 17.77142400" lat="S5 49.57246080" isOnRunway="0" holdPointType="none"/>
-		<node index="42" lon="E144 17.79922980" lat="S5 49.55927220" isOnRunway="0" holdPointType="none"/>
-		<node index="43" lon="E144 17.80418400" lat="S5 49.59272820" isOnRunway="0" holdPointType="none"/>
-		<node index="44" lon="E144 17.92740120" lat="S5 49.66847760" isOnRunway="0" holdPointType="none"/>
-		<node index="45" lon="E144 18.21377880" lat="S5 49.84448220" isOnRunway="0" holdPointType="none"/>
-		<node index="46" lon="E144 18.09933720" lat="S5 49.53338340" isOnRunway="0" holdPointType="none"/>
-		<node index="47" lon="E144 18.46149300" lat="S5 49.99700580" isOnRunway="0" holdPointType="none"/>
-		<node index="48" lon="E144 17.46327420" lat="S5 49.38284100" isOnRunway="0" holdPointType="none"/>
-		<node index="49" lon="E144 17.74011120" lat="S5 49.55310900" isOnRunway="0" holdPointType="none"/>
+		<node index="37" lat="S5 49.52807100" lon="E144 18.16091580" isOnRunway="0" holdPointType="none"/>
+		<node index="38" lat="S5 49.57853340" lon="E144 17.57594820" isOnRunway="0" holdPointType="none"/>
+		<node index="39" lat="S5 49.56670200" lon="E144 17.71309680" isOnRunway="0" holdPointType="none"/>
+		<node index="40" lat="S5 49.56299340" lon="E144 17.75609040" isOnRunway="0" holdPointType="none"/>
+		<node index="41" lat="S5 49.57246080" lon="E144 17.77142400" isOnRunway="0" holdPointType="none"/>
+		<node index="42" lat="S5 49.55927220" lon="E144 17.79922980" isOnRunway="0" holdPointType="none"/>
+		<node index="43" lat="S5 49.59272820" lon="E144 17.80418400" isOnRunway="0" holdPointType="none"/>
+		<node index="44" lat="S5 49.66847760" lon="E144 17.92740120" isOnRunway="0" holdPointType="none"/>
+		<node index="45" lat="S5 49.84448220" lon="E144 18.21377880" isOnRunway="0" holdPointType="none"/>
+		<node index="46" lat="S5 49.53338340" lon="E144 18.09933720" isOnRunway="0" holdPointType="none"/>
+		<node index="47" lat="S5 49.99700580" lon="E144 18.46149300" isOnRunway="0" holdPointType="none"/>
+		<node index="48" lat="S5 49.38284100" lon="E144 17.46327420" isOnRunway="0" holdPointType="none"/>
+		<node index="49" lat="S5 49.55310900" lon="E144 17.74011120" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="38" end="39" isPushBackRoute="0" name="08/26"/>
+		<arc begin="39" end="38" isPushBackRoute="0" name="08/26"/>
 		<arc begin="39" end="40" isPushBackRoute="0" name="08/26"/>
+		<arc begin="40" end="39" isPushBackRoute="0" name="08/26"/>
 		<arc begin="40" end="42" isPushBackRoute="0" name="08/26"/>
+		<arc begin="42" end="40" isPushBackRoute="0" name="08/26"/>
 		<arc begin="42" end="46" isPushBackRoute="0" name="08/26"/>
+		<arc begin="46" end="42" isPushBackRoute="0" name="08/26"/>
 		<arc begin="46" end="37" isPushBackRoute="0" name="08/26"/>
+		<arc begin="37" end="46" isPushBackRoute="0" name="08/26"/>
 		<arc begin="48" end="49" isPushBackRoute="0" name="12/30"/>
+		<arc begin="49" end="48" isPushBackRoute="0" name="12/30"/>
 		<arc begin="49" end="40" isPushBackRoute="0" name="12/30"/>
+		<arc begin="40" end="49" isPushBackRoute="0" name="12/30"/>
 		<arc begin="40" end="41" isPushBackRoute="0" name="12/30"/>
+		<arc begin="41" end="40" isPushBackRoute="0" name="12/30"/>
 		<arc begin="41" end="43" isPushBackRoute="0" name="12/30"/>
+		<arc begin="43" end="41" isPushBackRoute="0" name="12/30"/>
 		<arc begin="43" end="44" isPushBackRoute="0" name="12/30"/>
+		<arc begin="44" end="43" isPushBackRoute="0" name="12/30"/>
 		<arc begin="44" end="45" isPushBackRoute="0" name="12/30"/>
+		<arc begin="45" end="44" isPushBackRoute="0" name="12/30"/>
 		<arc begin="45" end="47" isPushBackRoute="0" name="12/30"/>
+		<arc begin="47" end="45" isPushBackRoute="0" name="12/30"/>
 	</TaxiWaySegments>
 </groundnet>

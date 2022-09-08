@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="misc" name="Custom Startup Location" lon="E146 59.39861160" lat="S8 21.36170880" heading="180" radius="14"/>
-		<Parking index="1" type="misc" name="Custom Startup Location" lon="E146 59.42668140" lat="S8 21.36071580" heading="180" radius="14"/>
+		<Parking index="0" type="misc" name="Custom Startup Location" lat="S8 21.36170880" lon="E146 59.39861160" heading="180" radius="14"/>
+		<Parking index="1" type="misc" name="Custom Startup Location" lat="S8 21.36071580" lon="E146 59.42668140" heading="180" radius="14"/>
 	</parkingList>
 </groundnet>

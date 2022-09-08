@@ -2,16 +2,18 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA 2" lon="E145 49.33209900" lat="S7 1.26015960" heading="67" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="GA 1" lon="E145 49.35788880" lat="S7 1.23964740" heading="-142" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="GA 2" lat="S7 1.26015960" lon="E145 49.33209900" heading="67" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA 1" lat="S7 1.23964740" lon="E145 49.35788880" heading="-142" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="2" lon="E145 49.22938620" lat="S7 1.15629600" isOnRunway="0" holdPointType="none"/>
-		<node index="3" lon="E145 49.43201400" lat="S7 1.32195600" isOnRunway="0" holdPointType="none"/>
-		<node index="4" lon="E145 49.34814540" lat="S7 1.25338800" isOnRunway="0" holdPointType="none"/>
+		<node index="2" lat="S7 1.15629600" lon="E145 49.22938620" isOnRunway="0" holdPointType="none"/>
+		<node index="3" lat="S7 1.32195600" lon="E145 49.43201400" isOnRunway="0" holdPointType="none"/>
+		<node index="4" lat="S7 1.25338800" lon="E145 49.34814540" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="3" end="4" isPushBackRoute="0" name="12/30"/>
+		<arc begin="4" end="3" isPushBackRoute="0" name="12/30"/>
 		<arc begin="4" end="2" isPushBackRoute="0" name="12/30"/>
+		<arc begin="2" end="4" isPushBackRoute="0" name="12/30"/>
 	</TaxiWaySegments>
 </groundnet>

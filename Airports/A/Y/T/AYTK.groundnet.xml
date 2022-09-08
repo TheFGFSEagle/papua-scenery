@@ -2,13 +2,13 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Gate 1 (Airline)" lon="E152 22.64610000" lat="S4 20.56193820" heading="244" radius="14"/>
-		<Parking index="1" type="tie_down" name="Gate 2 (Airline)" lon="E152 22.62192180" lat="S4 20.55498060" heading="240" radius="14"/>
-		<Parking index="2" type="tie_down" name="Gate 3 (Airline)" lon="E152 22.59749220" lat="S4 20.54794140" heading="245" radius="14"/>
-		<Parking index="3" type="tie_down" name="Gate 4 (Cargo)" lon="E152 22.57867380" lat="S4 20.53796220" heading="198" radius="14"/>
-		<Parking index="4" type="tie_down" name="Gate 5 (General)" lon="E152 22.55430420" lat="S4 20.53009920" heading="196" radius="14"/>
-		<Parking index="5" type="tie_down" name="Gate 6 (General)" lon="E152 22.53463800" lat="S4 20.52590160" heading="196" radius="14"/>
-		<Parking index="6" type="tie_down" name="Gate 7 (Helicopter)" lon="E152 22.50218340" lat="S4 20.51715540" heading="196" radius="14"/>
-		<Parking index="7" type="misc" name="General Start 8" lon="E152 22.51968540" lat="S4 20.47354320" heading="199" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="Gate 1 (Airline)" lat="S4 20.56193820" lon="E152 22.64610000" heading="244" radius="14"/>
+		<Parking index="1" type="tie_down" name="Gate 2 (Airline)" lat="S4 20.55498060" lon="E152 22.62192180" heading="240" radius="14"/>
+		<Parking index="2" type="tie_down" name="Gate 3 (Airline)" lat="S4 20.54794140" lon="E152 22.59749220" heading="245" radius="14"/>
+		<Parking index="3" type="tie_down" name="Gate 4 (Cargo)" lat="S4 20.53796220" lon="E152 22.57867380" heading="198" radius="14"/>
+		<Parking index="4" type="tie_down" name="Gate 5 (General)" lat="S4 20.53009920" lon="E152 22.55430420" heading="196" radius="14"/>
+		<Parking index="5" type="tie_down" name="Gate 6 (General)" lat="S4 20.52590160" lon="E152 22.53463800" heading="196" radius="14"/>
+		<Parking index="6" type="tie_down" name="Gate 7 (Helicopter)" lat="S4 20.51715540" lon="E152 22.50218340" heading="196" radius="14"/>
+		<Parking index="7" type="misc" name="General Start 8" lat="S4 20.47354320" lon="E152 22.51968540" heading="199" radius="7.5"/>
 	</parkingList>
 </groundnet>

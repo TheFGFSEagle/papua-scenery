@@ -2,8 +2,8 @@
 <PropertyList>
 	<tower>
 		<twr>
-			<lon>139.27220835</lon>
 			<lat>-4.47972224</lat>
+			<lon>139.27220835</lon>
 			<elev-m>5.0</elev-m>
 		</twr>
 	</tower>

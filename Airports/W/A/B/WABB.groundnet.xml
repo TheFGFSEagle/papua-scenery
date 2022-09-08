@@ -2,34 +2,41 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Biak IAF 4" lon="E136 5.92965360" lat="S1 11.01098520" heading="85" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="Biak IAF 3" lon="E136 5.88365580" lat="S1 11.04309780" heading="357" radius="7.5"/>
-		<Parking index="2" type="tie_down" name="Biak IAF 2" lon="E136 5.90970780" lat="S1 11.03123820" heading="357" radius="14"/>
-		<Parking index="3" type="tie_down" name="Biak IAF 1" lon="E136 5.93603580" lat="S1 11.02894860" heading="357" radius="14"/>
-		<Parking index="4" type="gate" name="Stand 5" lon="E136 6.38886300" lat="S1 11.48983920" heading="-161" radius="14"/>
-		<Parking index="5" type="gate" name="Stand 4" lon="E136 6.40726440" lat="S1 11.49638100" heading="-161" radius="18"/>
-		<Parking index="6" type="gate" name="Stand 3" lon="E136 6.42658800" lat="S1 11.50606620" heading="-161" radius="18"/>
-		<Parking index="7" type="gate" name="Stand 2" lon="E136 6.44874060" lat="S1 11.51491200" heading="-161" radius="18"/>
-		<Parking index="8" type="gate" name="Stand 1" lon="E136 6.47435340" lat="S1 11.51417400" heading="-161" radius="14"/>
-		<Parking index="9" type="tie_down" name="Biak Maintenance" lon="E136 6.43665240" lat="S1 11.22978420" heading="63" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="Biak IAF 4" lat="S1 11.01098520" lon="E136 5.92965360" heading="85" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="Biak IAF 3" lat="S1 11.04309780" lon="E136 5.88365580" heading="357" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="Biak IAF 2" lat="S1 11.03123820" lon="E136 5.90970780" heading="357" radius="14"/>
+		<Parking index="3" type="tie_down" name="Biak IAF 1" lat="S1 11.02894860" lon="E136 5.93603580" heading="357" radius="14"/>
+		<Parking index="4" type="gate" name="Stand 5" lat="S1 11.48983920" lon="E136 6.38886300" heading="-161" radius="14"/>
+		<Parking index="5" type="gate" name="Stand 4" lat="S1 11.49638100" lon="E136 6.40726440" heading="-161" radius="18"/>
+		<Parking index="6" type="gate" name="Stand 3" lat="S1 11.50606620" lon="E136 6.42658800" heading="-161" radius="18"/>
+		<Parking index="7" type="gate" name="Stand 2" lat="S1 11.51491200" lon="E136 6.44874060" heading="-161" radius="18"/>
+		<Parking index="8" type="gate" name="Stand 1" lat="S1 11.51417400" lon="E136 6.47435340" heading="-161" radius="14"/>
+		<Parking index="9" type="tie_down" name="Biak Maintenance" lat="S1 11.22978420" lon="E136 6.43665240" heading="63" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="53" lon="E136 7.37579160" lat="S1 11.72048340" isOnRunway="0" holdPointType="none"/>
-		<node index="54" lon="E136 5.57252700" lat="S1 11.08943100" isOnRunway="0" holdPointType="none"/>
-		<node index="55" lon="E136 5.62856760" lat="S1 11.10910920" isOnRunway="0" holdPointType="none"/>
-		<node index="56" lon="E136 5.93236920" lat="S1 11.21544300" isOnRunway="0" holdPointType="none"/>
-		<node index="57" lon="E136 6.36888600" lat="S1 11.36790360" isOnRunway="0" holdPointType="none"/>
-		<node index="58" lon="E136 6.45945660" lat="S1 11.39975760" isOnRunway="0" holdPointType="none"/>
-		<node index="59" lon="E136 6.53957100" lat="S1 11.42795520" isOnRunway="0" holdPointType="none"/>
-		<node index="60" lon="E136 7.31074260" lat="S1 11.69759100" isOnRunway="0" holdPointType="none"/>
+		<node index="53" lat="S1 11.72048340" lon="E136 7.37579160" isOnRunway="0" holdPointType="none"/>
+		<node index="54" lat="S1 11.08943100" lon="E136 5.57252700" isOnRunway="0" holdPointType="none"/>
+		<node index="55" lat="S1 11.10910920" lon="E136 5.62856760" isOnRunway="0" holdPointType="none"/>
+		<node index="56" lat="S1 11.21544300" lon="E136 5.93236920" isOnRunway="0" holdPointType="none"/>
+		<node index="57" lat="S1 11.36790360" lon="E136 6.36888600" isOnRunway="0" holdPointType="none"/>
+		<node index="58" lat="S1 11.39975760" lon="E136 6.45945660" isOnRunway="0" holdPointType="none"/>
+		<node index="59" lat="S1 11.42795520" lon="E136 6.53957100" isOnRunway="0" holdPointType="none"/>
+		<node index="60" lat="S1 11.69759100" lon="E136 7.31074260" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="54" end="55" isPushBackRoute="0" name="11/29"/>
+		<arc begin="55" end="54" isPushBackRoute="0" name="11/29"/>
 		<arc begin="55" end="56" isPushBackRoute="0" name="11/29"/>
+		<arc begin="56" end="55" isPushBackRoute="0" name="11/29"/>
 		<arc begin="56" end="57" isPushBackRoute="0" name="11/29"/>
+		<arc begin="57" end="56" isPushBackRoute="0" name="11/29"/>
 		<arc begin="57" end="58" isPushBackRoute="0" name="11/29"/>
+		<arc begin="58" end="57" isPushBackRoute="0" name="11/29"/>
 		<arc begin="58" end="59" isPushBackRoute="0" name="11/29"/>
+		<arc begin="59" end="58" isPushBackRoute="0" name="11/29"/>
 		<arc begin="59" end="60" isPushBackRoute="0" name="11/29"/>
+		<arc begin="60" end="59" isPushBackRoute="0" name="11/29"/>
 		<arc begin="60" end="53" isPushBackRoute="0" name="11/29"/>
+		<arc begin="53" end="60" isPushBackRoute="0" name="11/29"/>
 	</TaxiWaySegments>
 </groundnet>

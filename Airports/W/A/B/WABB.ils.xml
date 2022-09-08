@@ -2,8 +2,8 @@
 <PropertyList>
 	<runway>
 	<ils>
-			<lon>136.09271922</lon>
 			<lat>-1.18477065</lat>
+			<lon>136.09271922</lon>
 			<rwy>11</rwy>
 			<hdg-deg>109.29</hdg-deg>
 			<elev-m>-1000.0</elev-m>

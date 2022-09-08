@@ -2,6 +2,6 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="Homeyo Start" lon="E136 34.00238160" lat="S3 40.47887460" heading="83" radius="7.5"/>
+		<Parking index="0" type="gate" name="Homeyo Start" lat="S3 40.47887460" lon="E136 34.00238160" heading="83" radius="7.5"/>
 	</parkingList>
 </groundnet>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<groundnet>
-	<version>1</version>
-	<parkingList>
-		<Parking index="0" type="tie_down" name="Apron" lon="E142 50.10205980" lat="S1 43.97981520" heading="129" radius="14"/>
-	</parkingList>
-</groundnet>

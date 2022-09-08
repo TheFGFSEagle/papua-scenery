@@ -2,7 +2,7 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="New Ramp Start 67" lon="E133 41.76803940" lat="S3 38.66964840" heading="9" radius="18"/>
-		<Parking index="1" type="tie_down" name="New Ramp Start 68" lon="E133 41.84218740" lat="S3 38.42249220" heading="190" radius="26"/>
+		<Parking index="0" type="tie_down" name="New Ramp Start 67" lat="S3 38.66964840" lon="E133 41.76803940" heading="9" radius="18"/>
+		<Parking index="1" type="tie_down" name="New Ramp Start 68" lat="S3 38.42249220" lon="E133 41.84218740" heading="190" radius="26"/>
 	</parkingList>
 </groundnet>

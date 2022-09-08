@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="tie_down" name="Startup Location 1 (Airline/General)" lat="S4 48.15077220" lon="E144 42.87730620" heading="180" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="Startup Location 2 (Cargo)" lat="S4 48.13617720" lon="E144 42.89611440" heading="-36" radius="7.5"/>
+	</parkingList>
+</groundnet>

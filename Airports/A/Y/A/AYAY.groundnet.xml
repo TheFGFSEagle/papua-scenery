@@ -2,9 +2,9 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Ramp Start - General" lon="E145 54.31089960" lat="S6 20.40147840" heading="141" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="Ramp Start - Cargo" lon="E145 54.32334180" lat="S6 20.41785000" heading="319" radius="7.5"/>
-		<Parking index="2" type="tie_down" name="Ramp Start - Fuel" lon="E145 54.34923180" lat="S6 20.44256100" heading="55" radius="7.5"/>
-		<Parking index="3" type="tie_down" name="Ramp Start - Helicopters" lon="E145 54.33833280" lat="S6 20.43457200" heading="0" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="Ramp Start - General" lat="S6 20.40147840" lon="E145 54.31089960" heading="141" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="Ramp Start - Cargo" lat="S6 20.41785000" lon="E145 54.32334180" heading="319" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="Ramp Start - Fuel" lat="S6 20.44256100" lon="E145 54.34923180" heading="55" radius="7.5"/>
+		<Parking index="3" type="tie_down" name="Ramp Start - Helicopters" lat="S6 20.43457200" lon="E145 54.33833280" heading="0" radius="7.5"/>
 	</parkingList>
 </groundnet>

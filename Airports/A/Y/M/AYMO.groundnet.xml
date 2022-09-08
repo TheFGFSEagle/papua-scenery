@@ -2,11 +2,11 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="Military 3" lon="E147 25.36132740" lat="S2 3.75896220" heading="293" radius="14"/>
-		<Parking index="1" type="tie_down" name="Military 2" lon="E147 25.36407780" lat="S2 3.78891720" heading="294" radius="14"/>
-		<Parking index="2" type="tie_down" name="Military 1" lon="E147 25.37855160" lat="S2 3.82778160" heading="297" radius="14"/>
-		<Parking index="3" type="tie_down" name="Ramp Start 1 (Airline)" lon="E147 25.52547420" lat="S2 3.60390420" heading="195" radius="14"/>
-		<Parking index="4" type="tie_down" name="Ramp Start 2 (Airline)" lon="E147 25.49873820" lat="S2 3.61354200" heading="195" radius="14"/>
-		<Parking index="5" type="tie_down" name="Ramp Start 3 (General)" lon="E147 25.49548620" lat="S2 3.64809660" heading="254" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="Military 3" lat="S2 3.75896220" lon="E147 25.36132740" heading="293" radius="14"/>
+		<Parking index="1" type="tie_down" name="Military 2" lat="S2 3.78891720" lon="E147 25.36407780" heading="294" radius="14"/>
+		<Parking index="2" type="tie_down" name="Military 1" lat="S2 3.82778160" lon="E147 25.37855160" heading="297" radius="14"/>
+		<Parking index="3" type="tie_down" name="Ramp Start 1 (Airline)" lat="S2 3.60390420" lon="E147 25.52547420" heading="195" radius="14"/>
+		<Parking index="4" type="tie_down" name="Ramp Start 2 (Airline)" lat="S2 3.61354200" lon="E147 25.49873820" heading="195" radius="14"/>
+		<Parking index="5" type="tie_down" name="Ramp Start 3 (General)" lat="S2 3.64809660" lon="E147 25.49548620" heading="254" radius="7.5"/>
 	</parkingList>
 </groundnet>

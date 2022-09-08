@@ -2,11 +2,11 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="gate" name="RPT" lon="E142 49.40451240" lat="S10 12.36805740" heading="63" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="GA" lon="E142 49.37198760" lat="S10 12.37340100" heading="147" radius="7.5"/>
-		<Parking index="2" type="tie_down" name="GA" lon="E142 49.38034980" lat="S10 12.36901920" heading="147" radius="7.5"/>
-		<Parking index="3" type="tie_down" name="GA" lon="E142 49.38833160" lat="S10 12.36426300" heading="147" radius="7.5"/>
-		<Parking index="4" type="tie_down" name="GA" lon="E142 49.40790600" lat="S10 12.38099820" heading="-27" radius="7.5"/>
-		<Parking index="5" type="tie_down" name="GA" lon="E142 49.41678360" lat="S10 12.37634040" heading="-27" radius="7.5"/>
+		<Parking index="0" type="gate" name="RPT" lat="S10 12.36805740" lon="E142 49.40451240" heading="63" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA" lat="S10 12.37340100" lon="E142 49.37198760" heading="147" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="GA" lat="S10 12.36901920" lon="E142 49.38034980" heading="147" radius="7.5"/>
+		<Parking index="3" type="tie_down" name="GA" lat="S10 12.36426300" lon="E142 49.38833160" heading="147" radius="7.5"/>
+		<Parking index="4" type="tie_down" name="GA" lat="S10 12.38099820" lon="E142 49.40790600" heading="-27" radius="7.5"/>
+		<Parking index="5" type="tie_down" name="GA" lat="S10 12.37634040" lon="E142 49.41678360" heading="-27" radius="7.5"/>
 	</parkingList>
 </groundnet>

@@ -2,17 +2,19 @@
 <groundnet>
 	<version>1</version>
 	<parkingList>
-		<Parking index="0" type="tie_down" name="GA 1" lon="E142 16.93534860" lat="S6 6.24668880" heading="232" radius="7.5"/>
-		<Parking index="1" type="tie_down" name="GA 2" lon="E142 16.87766880" lat="S6 6.28787580" heading="334" radius="7.5"/>
-		<Parking index="2" type="tie_down" name="GA 3" lon="E142 16.86288600" lat="S6 6.28699380" heading="294" radius="7.5"/>
+		<Parking index="0" type="tie_down" name="GA 1" lat="S6 6.24668880" lon="E142 16.93534860" heading="232" radius="7.5"/>
+		<Parking index="1" type="tie_down" name="GA 2" lat="S6 6.28787580" lon="E142 16.87766880" heading="334" radius="7.5"/>
+		<Parking index="2" type="tie_down" name="GA 3" lat="S6 6.28699380" lon="E142 16.86288600" heading="294" radius="7.5"/>
 	</parkingList>
 	<TaxiNodes>
-		<node index="5" lon="E142 16.90578360" lat="S6 6.26150820" isOnRunway="0" holdPointType="none"/>
-		<node index="6" lon="E142 16.51505580" lat="S6 6.25606020" isOnRunway="0" holdPointType="none"/>
-		<node index="7" lon="E142 16.85371080" lat="S6 6.26077260" isOnRunway="0" holdPointType="none"/>
+		<node index="5" lat="S6 6.26150820" lon="E142 16.90578360" isOnRunway="0" holdPointType="none"/>
+		<node index="6" lat="S6 6.25606020" lon="E142 16.51505580" isOnRunway="0" holdPointType="none"/>
+		<node index="7" lat="S6 6.26077260" lon="E142 16.85371080" isOnRunway="0" holdPointType="none"/>
 	</TaxiNodes>
 	<TaxiWaySegments>
 		<arc begin="6" end="7" isPushBackRoute="0" name="09/27"/>
+		<arc begin="7" end="6" isPushBackRoute="0" name="09/27"/>
 		<arc begin="7" end="5" isPushBackRoute="0" name="09/27"/>
+		<arc begin="5" end="7" isPushBackRoute="0" name="09/27"/>
 	</TaxiWaySegments>
 </groundnet>
