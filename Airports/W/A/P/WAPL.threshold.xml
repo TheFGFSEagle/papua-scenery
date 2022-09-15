@@ -5,7 +5,7 @@
 			<lat>-5.66138818</lat>
 			<lon>132.72558988</lon>
 			<rwy>09</rwy>
-			<hdg-deg>92.29</hdg-deg>
+			<hdg-deg>272.29</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
@@ -13,7 +13,7 @@
 			<lat>-5.66185554</lat>
 			<lon>132.73732706</lon>
 			<rwy>27</rwy>
-			<hdg-deg>272.29</hdg-deg>
+			<hdg-deg>92.29</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>

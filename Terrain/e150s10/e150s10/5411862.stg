@@ -1,4 +1,4 @@
 OBJECT_BASE 5411862.btg
-OBJECT SAM.btg
-OBJECT_SHARED Models/Airport/windsock.xml 150.792819 -9.674227 8.2 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 150.788733 -9.667717 7.9 0.00
+OBJECT SAO.btg
+OBJECT_SHARED Models/Airport/windsock.xml 150.792819 -9.674227 8.1 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 150.788733 -9.667717 7.6 0.00

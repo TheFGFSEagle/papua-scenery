@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="misc" name="Ramp Start" lat="S5 35.79574620" lon="E147 48.63712380" heading="116" radius="7.5"/>
+	</parkingList>
+</groundnet>

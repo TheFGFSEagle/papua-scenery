@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="tie_down" name="Parking 1" lat="S7 52.83727920" lon="E147 8.79942960" heading="6" radius="7.5"/>
+	</parkingList>
+</groundnet>

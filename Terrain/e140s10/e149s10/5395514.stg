@@ -1,4 +1,4 @@
 OBJECT_BASE 5395514.btg
-OBJECT TFI.btg
-OBJECT_SHARED Models/Airport/windsock.xml 149.323119 -9.074124 11.4 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 149.317253 -9.076595 35.9 0.00
+OBJECT AYTU.btg
+OBJECT_SHARED Models/Airport/windsock.xml 149.323119 -9.074124 11.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 149.317253 -9.076595 37.0 0.00

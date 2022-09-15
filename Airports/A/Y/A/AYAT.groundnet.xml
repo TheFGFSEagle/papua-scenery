@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="tie_down" name="Ambunti Ramp" lat="S4 12.80095140" lon="E142 49.28023920" heading="155" radius="14"/>
+	</parkingList>
+</groundnet>

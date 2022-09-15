@@ -1,4 +1,4 @@
 OBJECT_BASE 5362817.btg
-OBJECT GAR.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 147.147146 -7.881225 759.8 0.00
-OBJECT_SHARED Models/Airport/windsock.xml 147.137579 -7.870798 760.6 0.00
+OBJECT AYGI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 147.147146 -7.881225 762.2 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 147.137579 -7.870798 760.5 0.00
