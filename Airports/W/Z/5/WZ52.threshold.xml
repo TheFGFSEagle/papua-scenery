@@ -5,7 +5,7 @@
 			<lat>-5.80258458</lat>
 			<lon>140.2139855</lon>
 			<rwy>11</rwy>
-			<hdg-deg>287.67</hdg-deg>
+			<hdg-deg>107.67</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
@@ -13,7 +13,7 @@
 			<lat>-5.80463527</lat>
 			<lon>140.22045444</lon>
 			<rwy>29</rwy>
-			<hdg-deg>107.67</hdg-deg>
+			<hdg-deg>287.67</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
@@ -23,7 +23,7 @@
 			<lat>-5.80160944</lat>
 			<lon>140.2130617</lon>
 			<rwy>12</rwy>
-			<hdg-deg>300.00</hdg-deg>
+			<hdg-deg>120.00</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
@@ -31,7 +31,7 @@
 			<lat>-5.80502856</lat>
 			<lon>140.2190143</lon>
 			<rwy>30</rwy>
-			<hdg-deg>120.00</hdg-deg>
+			<hdg-deg>300.00</hdg-deg>
 			<displ-m>0.0</displ-m>
 			<stopw-m>0.0</stopw-m>
 		</threshold>
